@@ -16,12 +16,13 @@ Contributions are welcome! Just do a pull request!
 > What people see; User Interface / User Experience / Client Side / Design / Games / Mobile / T.V. / Hardware
 
 >1. HTML
-  1.
+  1. Intro
 [Everything Html Head](https://github.com/joshbuchea/HEAD)
 2. CSS
-  1.
-3. Javascript -> Jquery
-  1.
+  1. Intro
+3. Javascript
+  1. Intro
+  2. Jquery
 4. Client Side Development (Web)
   - MVC-ish Frameworks
       - React
