@@ -14,7 +14,8 @@ Contributions are welcome! Just do a pull request!
 
 # Front-end tier
 > What people see; User Interface / User Experience / Client Side / Design / Games / Mobile / T.V. / Hardware
-1. HTML
+
+>1. HTML
   1.
 [Everything Html Head](https://github.com/joshbuchea/HEAD)
 2. CSS
@@ -22,7 +23,7 @@ Contributions are welcome! Just do a pull request!
 3. Javascript -> Jquery
   1.
 4. Client Side Development (Web)
-  1. MVC-ish Frameworks
+  - MVC-ish Frameworks
       - React
         - Redux
         - Flux
@@ -31,12 +32,12 @@ Contributions are welcome! Just do a pull request!
       - Backbone
       - Ember
       - Mithril
-  2. Build Tools
+  - Build Tools
       - Webpack
       - Browserify
       - Gulp
       - Grunt
-  3. Web App (Tools / Libraries / Frameworks)
+  - Web App (Tools / Libraries / Frameworks)
     1. CSS / Stylesheet language
       - Sass
       - Less
@@ -45,7 +46,7 @@ Contributions are welcome! Just do a pull request!
       - Google Material Design Lite
       - Foundation
       - Bourbon
-  4. Testing
+  - Testing
       - Selenium
       - Jest
       - Mocha
@@ -69,7 +70,8 @@ Contributions are welcome! Just do a pull request!
 
 # Middle-tier
 >The endpoint that talks to the client-side and the database
-1. Web Servers by language
+
+>1. Web Servers by language
   - C, C++, C#
   - [Elixir/Erlang](http://www.phoenixframework.org/docs/learning-elixir-and-erlang)
   - Go
@@ -129,7 +131,8 @@ Contributions are welcome! Just do a pull request!
 
 # Back-end tier (Database)
 >Stores and retrieves your data
-1. Sql
+
+>1. Sql
 2. NoSql
   - Realtime
   - Document
@@ -142,7 +145,8 @@ Contributions are welcome! Just do a pull request!
 
 #Dev Ops, Continuous Delivery/Integration/Deployment
 > The practice of collaborating for software deployment
-- Continuous integration
+
+>- Continuous integration
 - Continuous delivery
 - Continuous deployment
 - Feature toggle
@@ -165,6 +169,7 @@ Contributions are welcome! Just do a pull request!
 
 # Community
 > Find people who share your collective identity
+
 1. Stackoverflow
 2. HN
 3. Reddit
