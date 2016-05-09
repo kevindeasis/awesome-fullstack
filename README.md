@@ -14,7 +14,6 @@ Contributions are welcome! Just do a pull request!
 
 # Front-end tier
 > What people see; User Interface / User Experience / Client Side / Design / Games / Mobile / T.V. / Hardware
-
 1. HTML
   1.
 [Everything Html Head](https://github.com/joshbuchea/HEAD)
@@ -90,12 +89,12 @@ Contributions are welcome! Just do a pull request!
   - Python
   - Rails
   - Scala
-API / RESTful Service
-3. Serverless
-4. Command Line
-5. Hosting
-6. Micro Services
-7. [Testing](http://stackoverflow.com/questions/520064/what-is-unit-test-integration-test-smoke-test-regression-test)
+3. API / RESTful Service
+4. Serverless
+5. Command Line
+6. Hosting
+7. Micro Services
+8. [Testing](http://stackoverflow.com/questions/520064/what-is-unit-test-integration-test-smoke-test-regression-test)
   1. Unit Test
   2. Integration Test / Functional Test
   3. Smoke Test (Sanity check)
@@ -105,21 +104,21 @@ API / RESTful Service
   7. Flagging Test
   8. End to End Test
   9. [Blogs](http://googletesting.blogspot.ca/2015/04/just-say-no-to-more-end-to-end-tests.html)
-8. OWASP
-9. Dev Ops / Environment
+9. OWASP
+10. Dev Ops / Environment
   1. Vagrant
   2. Docker
-8. Tools
+11. Tools
   - Postman
   - Poster
   - Wire shark
-9. Configuration Management (CM) / Server Management
+12. Configuration Management (CM) / Server Management
   - Salt
   - Puppet
   - Chef
   - Ansible
   - Docker
-10. Platforms
+13. Platforms
   - PAAS
     - Digital Ocean
     - AWS
@@ -173,19 +172,19 @@ API / RESTful Service
 # Resource
 > Other stuff
 
--[LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
--[FreeCode Camp](https://www.freecodecamp.com)
--[Khan Academy](https://www.khanacademy.org/hourofcode)
--[W3 Schools](http://www.w3schools.com/)
--[Tuts +](http://tutsplus.com/)
--[Coursera](https://www.coursera.org/)
--[Udacity](https://www.udacity.com/)
--[Udemy](https://www.udemy.com/)
+- [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
+- [FreeCode Camp](https://www.freecodecamp.com)
+- [Khan Academy](https://www.khanacademy.org/hourofcode)
+- [W3 Schools](http://www.w3schools.com/)
+- [Tuts +](http://tutsplus.com/)
+- [Coursera](https://www.coursera.org/)
+- [Udacity](https://www.udacity.com/)
+- [Udemy](https://www.udemy.com/)
 
--[awesome x 3](https://github.com/t3chnoboy/awesome-awesome-awesome)
--[Front End ](https://github.com/micahgodbolt/front-end-architecture)
--[Micro Service](https://github.com/mfornos/awesome-microservices)
--[Sys admin / Devops etc.](https://github.com/kahun/awesome-sysadmin)
--[Continuous Integration / Delivery / Dev Ops](https://github.com/ciandcd/awesome-ciandcd)
+- [awesome x 3](https://github.com/t3chnoboy/awesome-awesome-awesome)
+- [Front End ](https://github.com/micahgodbolt/front-end-architecture)
+- [Micro Service](https://github.com/mfornos/awesome-microservices)
+- [Sys admin / Devops etc.](https://github.com/kahun/awesome-sysadmin)
+- [Continuous Integration / Delivery / Dev Ops](https://github.com/ciandcd/awesome-ciandcd)
 
--[CD](https://blog.risingstack.com/continuous-deployment-of-node-js-applications/)
+- [CD](https://blog.risingstack.com/continuous-deployment-of-node-js-applications/)
