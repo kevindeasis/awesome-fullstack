@@ -20,9 +20,10 @@ Contributions are welcome! Just do a pull request!
 2. CSS
   1. [Intro](https://github.com/kevindeasis/awesome-fullstack#css-intro)
 3. Javascript
-  1. Intro
-  2. Jquery
-  3. Awesome JS
+  1. [Intro](https://github.com/kevindeasis/awesome-fullstack#js-intro)
+  2. [Jquery](https://github.com/kevindeasis/awesome-fullstack#jquery-intro)
+  3. [JS Intermediate](https://github.com/kevindeasis/awesome-fullstack#js-intermediate)
+  4. [Awesome JS](https://github.com/kevindeasis/awesome-fullstack#awesome-js-list)
 4. Client Side Development (Web)
   - MVC-ish Frameworks
       - React
@@ -82,7 +83,7 @@ Contributions are welcome! Just do a pull request!
 # Middle-tier
 >The endpoint that talks to the client-side and the database
 
->1. Web Servers by language
+>1. [Web Servers by language](https://github.com/kevindeasis/awesome-fullstack#server-side)
   - C, C++, C#
   - [Elixir/Erlang](http://www.phoenixframework.org/docs/learning-elixir-and-erlang)
   - Go
@@ -92,16 +93,8 @@ Contributions are welcome! Just do a pull request!
   - Python
   - Rails
   - Scala
-2. Frameworks by language
-  - C, C++, C#
-  - Elixir/Erlang
-  - Go
-  - Java
-  - Javascript
-  - PHP
-  - Python
-  - Rails
-  - Scala
+  - Agnostic
+2. [Networking]((https://github.com/kevindeasis/awesome-fullstack#networking)
 3. API / RESTful Service
 4. Serverless
 5. Command Line
@@ -233,11 +226,71 @@ Contributions are welcome! Just do a pull request!
 - [Awesome Promises](https://github.com/wbinnssmith/awesome-promises)
 - [Awesome Books](https://github.com/wbinnssmith/awesome-promises)
 
+# Server side
+> Server side programming different languages
+
+# C, C++, C# Server
+
+# Server Erlang
+- [Elixir/Erlang](http://www.phoenixframework.org/docs/learning-elixir-and-erlang)
+
+# Go Server
+- [A tour of golang](https://tour.golang.org/welcome/1)
+- [Go Wiki](https://github.com/golang/go/wiki/Learn)
+
+
+# Java Server
+
+# Javascript Server
+- [Node School](http://nodeschool.io/)
+- [LearnCode.Academy](https://www.youtube.com/watch?v=pU9Q6oiQNd0&list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh)
+- [Code School](https://www.codeschool.com/courses/real-time-web-with-node-js)
+- [Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node_
+- [Tutorials Point](http://www.tutorialspoint.com/nodejs/)
+- [Express](http://expressjs.com/)
+- [Node/Sails/Socket.IO/Angular/Mongo](https://courses.platzi.com/courses/develop-apps-sails-js/)
+- [node tuts](http://nodetuts.com/)
+
+# PHP Server
+
+# Python Server
+
+# Rails Server
+
+# Scala Server
+
+# Agnostic Server
+
+# Networking
+- [Online Course: Computer Networking Playlist](https://www.youtube.com/watch?v=d4_7dUFl4v0&list=PLkHsKoi6eZnzJl1qTzmvBwTxrSJW4D2Jj)
+- [LearnCode.Academy: How the Internet Works](https://www.youtube.com/watch?v=e4S8zfLdLgQ)
+- [Eli the computer guy on youtube: Networking](https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5)
+- [danscourses: youtube channel](https://www.youtube.com/user/danscourses/featured)
+- [Professor Messer](http://www.professormesser.com/network-plus/n10-005/free-network-plus/)
+- [Professor Messer (Youtube)](https://www.youtube.com/channel/UCkefXKtInZ9PLsoGRtml2FQ)
+- [Andrew Crouthamel (Youtube): CCNA/CNET](https://www.youtube.com/playlist?list=PLmdYg02XJt6QRQfYjyQcMPfS3mrSnFbRC)
+- [Router Alley Guides](http://www.routeralley.com/guides.html)
+- [Warriors of the net: Video](https://www.youtube.com/watch?v=PBWhzz_Gn10)
+- [Tuts +: HTTP](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+- [MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/index.htm)
+- [Cheat SHeet](http://packetlife.net/library/cheat-sheets/)
+- [Subnetting Practice](http://subnettingpractice.com/howto.html)
+- [Reddit CCNA](https://www.reddit.com/r/ccna/)
+- [Subnet made easy](https://docs.google.com/document/u/1/d/1O84JC1KnLFYUNo2CUYCtvEtJkkiM05uOATxaA1hlz6Y/mobilebasic?pli=1)
+- [Cisco from scratch](http://ciscoiseasy.blogspot.ca/)
+- [Cisco Learning Network](https://learningnetwork.cisco.com/welcome)
+- [SDN: Software Defined Networking Coursera](https://www.coursera.org/course/sdn1)
+- [Cloud Computing](https://www.coursera.org/course/cloudcomputing)
+- [Cloud Networking](https://www.coursera.org/course/cloudnetworking)
+- [Internet Emerging Tech](https://www.coursera.org/learn/internet-technologies)
+- [GNS3 Academy](http://academy.gns3.com/)
+
 # Resource
 > Other stuff
 
 - [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
 - [FreeCode Camp](https://www.freecodecamp.com)
+- [The Oding Project](The Odin Project)
 - [Khan Academy](https://www.khanacademy.org/hourofcode)
 - [W3 Schools](http://www.w3schools.com/)
 - [Tuts +](http://tutsplus.com/)
