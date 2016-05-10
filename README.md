@@ -4,6 +4,15 @@
 
 Learn front-end, middle-tier, back-end tier, algorithms, and continuous delivery
 
+# What to Learn
+>1. [Front End](https://github.com/kevindeasis/awesome-fullstack#front-end-tier)
+2. [Middle Tier (Servers)](https://github.com/kevindeasis/awesome-fullstack#middle-tier)
+3. [Backend Tier (Database)]https://github.com/kevindeasis/awesome-fullstack#back-end-tier-database()
+4. [Dev-Ops,Product Management,Deployment, etc (TBD)](#)
+5. [Algorithms: TBD](#)
+6. [Community: TBD](#)
+
+
 ## License
 
 MIT
@@ -86,15 +95,15 @@ Contributions are welcome! Just do a pull request!
 >1. [Web Servers by language](https://github.com/kevindeasis/awesome-fullstack#server-side)
   - C, C++, C#
   - [Elixir/Erlang](http://www.phoenixframework.org/docs/learning-elixir-and-erlang)
-  - Go
+  - [Go](https://github.com/kevindeasis/awesome-fullstack#go-server)
   - Java
-  - Javascript
+  - [Javascript](https://github.com/kevindeasis/awesome-fullstack#javascript-server)
   - PHP
   - Python
   - Rails
   - Scala
   - Agnostic
-2. [Networking]((https://github.com/kevindeasis/awesome-fullstack#networking)
+2. [Networking](https://github.com/kevindeasis/awesome-fullstack#networking)
 3. API / RESTful Service
 4. Serverless
 5. Command Line
@@ -245,7 +254,7 @@ Contributions are welcome! Just do a pull request!
 - [Node School](http://nodeschool.io/)
 - [LearnCode.Academy](https://www.youtube.com/watch?v=pU9Q6oiQNd0&list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh)
 - [Code School](https://www.codeschool.com/courses/real-time-web-with-node-js)
-- [Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node_
+- [Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node)
 - [Tutorials Point](http://www.tutorialspoint.com/nodejs/)
 - [Express](http://expressjs.com/)
 - [Node/Sails/Socket.IO/Angular/Mongo](https://courses.platzi.com/courses/develop-apps-sails-js/)
