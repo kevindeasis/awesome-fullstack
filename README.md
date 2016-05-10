@@ -7,7 +7,7 @@ Learn front-end, middle-tier, back-end tier, algorithms, and continuous delivery
 # What to Learn
 >1. [Front End](https://github.com/kevindeasis/awesome-fullstack#front-end-tier)
 2. [Middle Tier (Servers)](https://github.com/kevindeasis/awesome-fullstack#middle-tier)
-3. [Backend Tier (Database)]https://github.com/kevindeasis/awesome-fullstack#back-end-tier-database()
+3. [Backend Tier (Database)](https://github.com/kevindeasis/awesome-fullstack#back-end-tier-database)
 4. [Dev-Ops,Product Management,Deployment, etc (TBD)](#)
 5. [Algorithms: TBD](#)
 6. [Community: TBD](#)
