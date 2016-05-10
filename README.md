@@ -16,13 +16,13 @@ Contributions are welcome! Just do a pull request!
 > What people see; User Interface / User Experience / Client Side / Design / Games / Mobile / T.V. / Hardware
 
 >1. HTML
-  1. Intro
-[Everything Html Head](https://github.com/joshbuchea/HEAD)
+  - [Intro](https://github.com/kevindeasis/awesome-fullstack#html-intro)
 2. CSS
-  1. Intro
+  1. [Intro](https://github.com/kevindeasis/awesome-fullstack#css-intro)
 3. Javascript
   1. Intro
   2. Jquery
+  3. Awesome JS
 4. Client Side Development (Web)
   - MVC-ish Frameworks
       - React
@@ -54,7 +54,16 @@ Contributions are welcome! Just do a pull request!
       - Jasmine
       - Chai
       - Sinon
-5. Design
+  - Tools
+      - Google Analytics
+      - Heatmap
+  - Checklist
+      - [Web Checklist](http://webdevchecklist.com/), [Github](https://github.com/ligershark/webdevchecklist.com)
+      - [Landing Page Checklist](http://unbounce.com/landing-pages/checklist/)
+      - [Website Laung Checklist](https://news.ycombinator.com/item?id=9522885)
+      - [Web Components](https://github.com/webcomponents/gold-standard/wiki)
+      - [Web checklist](http://tryblocks.com/departure/index.html)
+5. Design & Copy Writing
 6. Mobile
   1. Android
   2. Ios
@@ -68,6 +77,7 @@ Contributions are welcome! Just do a pull request!
   1. Arduino
   2. Raspberry Pi
 9. Embedded
+
 
 # Middle-tier
 >The endpoint that talks to the client-side and the database
@@ -129,6 +139,9 @@ Contributions are welcome! Just do a pull request!
     - Google Cloud
   - IAAS
   - BAAS
+14. Checklist
+  - [Checklist](https://securitychecklist.org/)
+  - [Linux](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md)
 
 # Back-end tier (Database)
 >Stores and retrieves your data
@@ -175,6 +188,51 @@ Contributions are welcome! Just do a pull request!
 2. HN
 3. Reddit
 
+# HTML Intro
+- [Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)
+- [Free Code Camp](https://www.freecodecamp.com/challenges/say-hello-to-html-elements)
+- [Code Academy](https://www.codecademy.com/learn/web)
+- [https://www.codeschool.com/learn/html-css](https://www.codeschool.com/learn/html-css)
+- [Shayhowe](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
+- [W3C HTML5 Tutorial](http://www.w3schools.com/html/)
+- [Mozilla](https://developer.mozilla.org/en-US/Learn/HTML/Introduction_to_HTML/Getting_started)
+- [Everything Html Head](https://github.com/joshbuchea/HEAD)
+
+# CSS Intro
+- [Khan Academy](https://www.khanacademy.org/computing/hour-of-code/hour-of-html/p/css-basics)
+- [Free Code Camp](https://www.freecodecamp.com/challenges/use-css-selectors-to-style-elements)
+- [w3c](http://www.w3schools.com/css/)
+- [Learn Layout](http://learnlayout.com/margin-auto.html)
+- [Shayhowe](http://learn.shayhowe.com/html-css/getting-to-know-css/)
+- [Egghead](https://egghead.io/technologies/css)
+- [msdn](https://channel9.msdn.com/Series/JavaScript-Fundamentals-Development-for-Absolute-Beginners)
+- [FlexBox](https://github.com/cjcenizal/flexbox-patterns)
+- [Awesome FlexBox](https://github.com/afonsopacifer/awesome-flexbox)
+- [Awesome CSS](https://github.com/sotayamashita/awesome-css)
+- [Load Spinners](http://github.danielcardoso.net/load-awesome/animations.html)
+
+# JS Intro
+- [Free Code Camp](https://www.freecodecamp.com/challenges/comment-your-javascript-code)
+- [w3c](http://www.w3schools.com/js/)
+- [codeacademy](https://www.codecademy.com/learn/javascript)
+- [egghead](https://egghead.io/technologies/js)
+- [codeschool](https://www.codeschool.com/learn/javascript)
+
+# Jquery Intro
+- [Free code camp](https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work)
+
+# JS Intermediate
+- [Reddit learnjs](https://www.reddit.com/r/learnjavascript/top/)
+- [YDKSJS](https://github.com/getify/You-Dont-Know-JS)
+- [Eloquent JS](http://eloquentjavascript.net/)
+- [Codementor](https://www.codementor.io/learn-javascript-online)
+
+# Awesome JS List
+- [Awesome JS:Browser](https://github.com/sorrycc/awesome-javascript)
+- [Awesome JS:Learning Guide](https://github.com/wwsun/awesome-javascript)
+- [Awesome Promises](https://github.com/wbinnssmith/awesome-promises)
+- [Awesome Books](https://github.com/wbinnssmith/awesome-promises)
+
 # Resource
 > Other stuff
 
@@ -186,6 +244,7 @@ Contributions are welcome! Just do a pull request!
 - [Coursera](https://www.coursera.org/)
 - [Udacity](https://www.udacity.com/)
 - [Udemy](https://www.udemy.com/)
+- [Codementor](https://www.codementor.io/learn/coding)
 
 - [awesome x 3](https://github.com/t3chnoboy/awesome-awesome-awesome)
 - [Front End ](https://github.com/micahgodbolt/front-end-architecture)
