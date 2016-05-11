@@ -1,4 +1,4 @@
-# awesome-fullstack
+# awesome-fullstack [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![MIT](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 
 > A curated list on how to Full Stack
 
@@ -11,6 +11,7 @@ Learn front-end, middle-tier, back-end tier, algorithms, and continuous delivery
 4. [Dev-Ops,Product Management,Deployment, etc (TBD)](#)
 5. [Algorithms: TBD](#)
 6. [Community: TBD](#)
+7. [Open Sourcing: TBD](#)
 
 
 ## License
@@ -19,7 +20,8 @@ MIT
 
 ## Contribute
 
-Contributions are welcome! Just do a pull request!
+> Contributions are welcome! Just do a pull request!
+  - **Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
 
 # Front-end tier
 > What people see; User Interface / User Experience / Client Side / Design / Games / Mobile / T.V. / Hardware
@@ -224,10 +226,13 @@ Contributions are welcome! Just do a pull request!
 - [Free code camp](https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work)
 
 # JS Intermediate
+- [AirBNB: JS Style Guide](https://github.com/airbnb/javascript)
 - [Reddit learnjs](https://www.reddit.com/r/learnjavascript/top/)
 - [YDKSJS](https://github.com/getify/You-Dont-Know-JS)
 - [Eloquent JS](http://eloquentjavascript.net/)
 - [Codementor](https://www.codementor.io/learn-javascript-online)
+- [ES6](https://github.com/ericdouglas/ES6-Learning)
+
 
 # Awesome JS List
 - [Awesome JS:Browser](https://github.com/sorrycc/awesome-javascript)
@@ -259,6 +264,7 @@ Contributions are welcome! Just do a pull request!
 - [Express](http://expressjs.com/)
 - [Node/Sails/Socket.IO/Angular/Mongo](https://courses.platzi.com/courses/develop-apps-sails-js/)
 - [node tuts](http://nodetuts.com/)
+- [Airbnb style guide](https://github.com/airbnb/javascript)
 
 # PHP Server
 
@@ -279,6 +285,7 @@ Contributions are welcome! Just do a pull request!
 - [Professor Messer (Youtube)](https://www.youtube.com/channel/UCkefXKtInZ9PLsoGRtml2FQ)
 - [Andrew Crouthamel (Youtube): CCNA/CNET](https://www.youtube.com/playlist?list=PLmdYg02XJt6QRQfYjyQcMPfS3mrSnFbRC)
 - [Router Alley Guides](http://www.routeralley.com/guides.html)
+- [Stanford](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 - [Warriors of the net: Video](https://www.youtube.com/watch?v=PBWhzz_Gn10)
 - [Tuts +: HTTP](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 - [MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/index.htm)
@@ -315,3 +322,9 @@ Contributions are welcome! Just do a pull request!
 - [Continuous Integration / Delivery / Dev Ops](https://github.com/ciandcd/awesome-ciandcd)
 
 - [CD](https://blog.risingstack.com/continuous-deployment-of-node-js-applications/)
+
+# Open Sourcing
+
+-[First Open Source Projects to Contribute to](http://up-for-grabs.net/#/)
+-[Blog about beginner open source](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.uki6osi6z)
+-[Code Triage](https://www.codetriage.com/)
