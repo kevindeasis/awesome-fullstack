@@ -30,6 +30,8 @@ MIT
   - [Intro](https://github.com/kevindeasis/awesome-fullstack#html-intro)
 2. CSS
   1. [Intro](https://github.com/kevindeasis/awesome-fullstack#css-intro)
+  2. [Animations](https://robots.thoughtbot.com/css-animation-for-beginners)
+    - [Css animation for beginners (Youtube)](https://www.youtube.com/watch?v=D9YQBaDBJ88)
 3. Javascript
   1. [Intro](https://github.com/kevindeasis/awesome-fullstack#js-intro)
   2. [Jquery](https://github.com/kevindeasis/awesome-fullstack#jquery-intro)
@@ -182,8 +184,11 @@ MIT
 #Software Product Management
 > The process of manging the task to deploy a product/feature
 
-# Algorithms
+# Algorithms and Data Structures
 > How to solve a problem
+
+# Paradigms
+> Programming Paradigms
 
 # Community
 > Find people who share your collective identity
@@ -323,8 +328,11 @@ MIT
 
 - [CD](https://blog.risingstack.com/continuous-deployment-of-node-js-applications/)
 
+- [squaresce logo generator](https://www.squarespace.com/logo/)
+
 # Open Sourcing
 
 -[First Open Source Projects to Contribute to](http://up-for-grabs.net/#/)
 -[Blog about beginner open source](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.uki6osi6z)
 -[Code Triage](https://www.codetriage.com/)
+

@@ -1,0 +1,44 @@
+{
+  "name": "awesome-fullstack",
+  "version": "1.0.0",
+  "description": "A roadmap containing a curated list on how to become a Full Stack Developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "git-cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevindeasis/awesome-fullstack.git"
+  },
+  "keywords": [
+    "full",
+    "stack",
+    "developer",
+    "tutorials",
+    "learn",
+    "front",
+    "end",
+    "back",
+    "end",
+    "middle",
+    "tier",
+    "database",
+    "mobile",
+    "web",
+    "app"
+  ],
+  "author": "Kevin De Asis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevindeasis/awesome-fullstack/issues"
+  },
+  "homepage": "https://github.com/kevindeasis/awesome-fullstack#readme",
+  "devDependencies": {
+    "commitizen": "^2.8.1",
+    "cz-conventional-changelog": "^1.1.6"
+  },
+  "czConfig": {
+    "path": "node_modules/cz-conventional-changelog"
+  }
+}
