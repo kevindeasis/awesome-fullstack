@@ -163,7 +163,7 @@ MIT
 4. Caching
 5. Search
 
-#Dev Ops, Continuous Delivery/Integration/Deployment
+# Dev Ops, Continuous Delivery/Integration/Deployment
 > The practice of collaborating for software deployment
 
 >- Continuous integration
@@ -175,7 +175,7 @@ MIT
 - Tools
   1. Jenkins
   2. Travis
-- Cluster Management / Containers
+- Cluster Management / Containers / Infrastructure
   1. Kubernetes
   2. Docker + Vagrant
   3. Terraform
@@ -186,6 +186,15 @@ MIT
 
 # Algorithms and Data Structures
 > How to solve a problem
+
+- [MIT ALgorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+- [Hacker Rank](https://www.hackerrank.com/domains)
+- [Topcoder](https://www.topcoder.com/)
+- [Coursera Stanford](https://www.coursera.org/course/algo)
+- [Coursera Princeton](https://www.coursera.org/course/algs4partI)
+- [Erik Demaine Classes](http://erikdemaine.org/classes/)
+- [Udacity](https://www.udacity.com/course/intro-to-algorithms--cs215)
+- [OEDB list](http://oedb.org/open/search-results/?search-term=algorithm)
 
 # Paradigms
 > Programming Paradigms
@@ -306,6 +315,13 @@ MIT
 - [Internet Emerging Tech](https://www.coursera.org/learn/internet-technologies)
 - [GNS3 Academy](http://academy.gns3.com/)
 
+# Dev Ops
+- [Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
+
+# Infrastructure
+- [Sysadmincats](https://sysadmincasts.com/)
+- [Bash Academy](http://www.bash.academy/)
+
 # Resource
 > Other stuff
 
@@ -329,6 +345,28 @@ MIT
 - [CD](https://blog.risingstack.com/continuous-deployment-of-node-js-applications/)
 
 - [squaresce logo generator](https://www.squarespace.com/logo/)
+
+# HTML / CSS /JS Library
+
+- [Codyhouse](https://codyhouse.co/library/)
+- [UPlabs](http://www.uplabs.com/)
+- [Parallax](https://github.com/pixelcog/parallax.js)
+- [Waypoints](https://github.com/imakewebthings/waypoints)
+- [Scroll Magic](https://github.com/janpaepke/ScrollMagic)
+- [Superscrollorama](https://github.com/johnpolacek/superscrollorama)
+- [Scroll Reveal](https://github.com/jlmakes/scrollreveal.js)
+- [Typography: Guttenburg Kit](https://github.com/matejlatin/Gutenberg)
+- [Distorted Button Effect](https://github.com/codrops/DistortedButtonEffects)
+- [Velocity js animation (svg support)](https://github.com/julianshapiro/velocity)
+- [Snap.svg](https://github.com/adobe-webplatform/Snap.svg)
+- [Reveal](https://github.com/hakimel/reveal.js)
+- [Phantom JS(http://phantomjs.org/)
+- [Robo Browser](https://github.com/jmcarp/robobrowser)
+- [Selenium](http://www.seleniumhq.org/)
+- [Nightmare JS](https://github.com/segmentio/nightmare)
+- [Daydream](https://github.com/segmentio/daydream)
+- [Material UI](http://www.material-ui.com/#/)
+
 
 # Open Sourcing
 
