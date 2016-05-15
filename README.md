@@ -316,11 +316,17 @@ MIT
 - [GNS3 Academy](http://academy.gns3.com/)
 
 # Dev Ops
+
+# Software Product Management
 - [Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
+- [Code Review](https://github.com/thoughtbot/guides/tree/master/code-review)
 
 # Infrastructure
 - [Sysadmincats](https://sysadmincasts.com/)
 - [Bash Academy](http://www.bash.academy/)
+- [Smart Bear](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
+- [Fog Creek](http://blog.fogcreek.com/effective-code-reviews-9-tips-from-a-converted-skeptic/)
+- [Methods and Tools](http://www.methodsandtools.com/archive/archive.php?id=66)
 
 # Resource
 > Other stuff
