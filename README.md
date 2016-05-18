@@ -315,6 +315,10 @@ MIT
 - [Internet Emerging Tech](https://www.coursera.org/learn/internet-technologies)
 - [GNS3 Academy](http://academy.gns3.com/)
 
+# Serverless
+- [Horizon](http://horizon.io/)
+- [Lambda](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
+
 # Dev Ops
 
 # Software Product Management
@@ -327,6 +331,23 @@ MIT
 - [Smart Bear](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
 - [Fog Creek](http://blog.fogcreek.com/effective-code-reviews-9-tips-from-a-converted-skeptic/)
 - [Methods and Tools](http://www.methodsandtools.com/archive/archive.php?id=66)
+
+# Configuration Management
+- [Docker](https://www.docker.com/what-docker)
+  - [LearnCode.Academy: Docker](https://www.youtube.com/watch?v=pGYAg7TMmp0)
+
+# Platforms
+  - [Paas]
+    - [App Engine](https://en.wikipedia.org/wiki/Google_App_Engine)
+    - [AWS Elastic Beanstalk](http://aws.amazon.com/elasticbeanstalk/)
+    - [Open Shift](https://en.wikipedia.org/wiki/OpenShift)
+    - [Blue Minx](http://www.ibm.com/cloud-computing/bluemix/)
+    - [Heroku](https://www.heroku.com/)
+    - [Azure](https://azure.microsoft.com/en-us/services/app-service/web/)
+  - [BAAS]
+    - [Firebase](https://www.firebase.com/)
+    - [Pubnub](https://www.pubnub.com/)
+    - [Pusher](https://pusher.com/)
 
 # Resource
 > Other stuff
