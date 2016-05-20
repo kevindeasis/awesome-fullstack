@@ -187,6 +187,7 @@ MIT
 # Algorithms and Data Structures
 > How to solve a problem
 
+- [Better Explained](http://betterexplained.com/)
 - [MIT ALgorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 - [Hacker Rank](https://www.hackerrank.com/domains)
 - [Topcoder](https://www.topcoder.com/)
@@ -195,6 +196,8 @@ MIT
 - [Erik Demaine Classes](http://erikdemaine.org/classes/)
 - [Udacity](https://www.udacity.com/course/intro-to-algorithms--cs215)
 - [OEDB list](http://oedb.org/open/search-results/?search-term=algorithm)
+- [ACM introduction to programming contest stanford](http://web.stanford.edu/class/cs97si/)
+- [Competitive programming course](https://algo.is/t-414-aflv-competitive-programming-course-2016/)
 
 # Paradigms
 > Programming Paradigms
