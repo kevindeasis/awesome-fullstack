@@ -85,8 +85,16 @@ MIT
   4. Black Berry
   5. Cross Platform
 7. Gaming
-  1. Unity
-  2. Unreal Engine
+  1. [Unity](https://unity3d.com/)
+  2. [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4)
+  3. [GameMaker](http://www.yoyogames.com/gamemaker)
+  4. [Construct2](https://www.scirra.com/construct2)
+  5. [Playmaker](http://www.hutonggames.com/showcase.html)
+  6. [Stencyl](http://www.stencyl.com/)
+  7. [Godot](http://www.godotengine.org/)
+  8. [Amazon Lumberyard](http://aws.amazon.com/lumberyard/)
+  9. [2D resources](https://www.reddit.com/r/Unity2D/comments/3dfi5k/lets_create_a_list_of_all_100_free_2d_assets_with/)
+  10. [2D unity rpg tutorial](https://www.youtube.com/watch?v=NNpLsimyu3I&index=1&list=PL_4rJ_acBNMH3SExL3yIOzaqj5IP5CJLC)
 8. IoT
   1. Arduino
   2. Raspberry Pi
