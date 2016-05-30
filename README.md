@@ -12,6 +12,7 @@ Learn front-end, middle-tier, back-end tier, algorithms, and continuous delivery
 5. [Algorithms: TBD](#)
 6. [Community: TBD](#)
 7. [Open Sourcing: TBD](#)
+8. [Jobs](https://github.com/kevindeasis/awesome-fullstack#jobs)
 
 
 ## License
@@ -330,6 +331,9 @@ MIT
 - [Horizon](http://horizon.io/)
 - [Lambda](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
 
+# Microservices
+- [awesome microservices](https://github.com/mfornos/awesome-microservices)
+
 # Sql
 - [Bostongis: Postgis](http://www.bostongis.com/)
 - [Boundless geo: Postgis](http://workshops.boundlessgeo.com/suiteintro/postgis/index.html)
@@ -339,6 +343,9 @@ MIT
 - [Postgis in action: Postgis](https://www.manning.com/books/postgis-in-action-second-edition)
 
 # Dev Ops
+- [awesome continuous integration and delivery](https://github.com/ciandcd/awesome-ciandcd)
+- [awesome sysadmin](https://github.com/kahun/awesome-sysadmin)
+- [awesome microservice](https://github.com/mfornos/awesome-microservices)
 
 # Software Product Management
 - [Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
@@ -406,7 +413,7 @@ MIT
 - [Velocity js animation (svg support)](https://github.com/julianshapiro/velocity)
 - [Snap.svg](https://github.com/adobe-webplatform/Snap.svg)
 - [Reveal](https://github.com/hakimel/reveal.js)
-- [Phantom JS(http://phantomjs.org/)
+- [Phantom JS](http://phantomjs.org/)
 - [Robo Browser](https://github.com/jmcarp/robobrowser)
 - [Selenium](http://www.seleniumhq.org/)
 - [Nightmare JS](https://github.com/segmentio/nightmare)
@@ -416,7 +423,10 @@ MIT
 
 # Open Sourcing
 
--[First Open Source Projects to Contribute to](http://up-for-grabs.net/#/)
--[Blog about beginner open source](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.uki6osi6z)
--[Code Triage](https://www.codetriage.com/)
+- [First Open Source Projects to Contribute to](http://up-for-grabs.net/#/)
+- [Blog about beginner open source](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.uki6osi6z)
+- [Code Triage](https://www.codetriage.com/)
 
+# Jobs
+- [awesome interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
+- [awesome remote job](https://github.com/lukasz-madon/awesome-remote-job)
