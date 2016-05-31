@@ -83,7 +83,6 @@ MIT
   - [Optimization](https://github.com/davidsonfellipe/awesome-wpo)
   - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization)
   - [Web Components the right way](https://github.com/mateusortiz/webcomponents-the-right-way)
-
 6. Mobile
   1. Android
   2. Ios
