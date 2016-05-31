@@ -8,9 +8,9 @@ Learn front-end, middle-tier, back-end tier, algorithms, and continuous delivery
 >1. [Front End](https://github.com/kevindeasis/awesome-fullstack#front-end-tier)
 2. [Middle Tier (Servers)](https://github.com/kevindeasis/awesome-fullstack#middle-tier)
 3. [Backend Tier (Database)](https://github.com/kevindeasis/awesome-fullstack#back-end-tier-database)
-4. [Dev-Ops,Product Management,Deployment, etc (TBD)](#)
-5. [Algorithms: TBD](#)
-6. [Community: TBD](#)
+4. [Dev-Ops,Product Management,Deployment, etc](https://github.com/kevindeasis/awesome-fullstack#dev-ops-continuous-deliveryintegrationdeployment)
+5. [Algorithms, AI, ML](https://github.com/kevindeasis/awesome-fullstack#algorithms-and-data-structures)
+6. [Community](https://github.com/kevindeasis/awesome-fullstack#community)
 7. [Open Sourcing: TBD](#)
 8. [Jobs](https://github.com/kevindeasis/awesome-fullstack#jobs)
 
@@ -78,7 +78,12 @@ MIT
       - [Website Laung Checklist](https://news.ycombinator.com/item?id=9522885)
       - [Web Components](https://github.com/webcomponents/gold-standard/wiki)
       - [Web checklist](http://tryblocks.com/departure/index.html)
-5. Design & Copy Writing
+5. Design, Copy Writing, SEO, Optimization
+  - [Awesome Design, UI/UX](https://github.com/kevindeasis/awesome-ui)
+  - [Optimization](https://github.com/davidsonfellipe/awesome-wpo)
+  - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization)
+  - [Web Components the right way](https://github.com/mateusortiz/webcomponents-the-right-way)
+
 6. Mobile
   1. Android
   2. Ios
@@ -106,16 +111,19 @@ MIT
 >The endpoint that talks to the client-side and the database
 
 >1. [Web Servers by language](https://github.com/kevindeasis/awesome-fullstack#server-side)
-  - C, C++, C#
+  - [C](https://github.com/kozross/awesome-c)
+  - [C++](https://github.com/fffaraz/awesome-cpp)
+  - [C# / Dotnet](https://github.com/quozd/awesome-dotnet)
   - [Elixir/Erlang](http://www.phoenixframework.org/docs/learning-elixir-and-erlang)
   - [Go](https://github.com/kevindeasis/awesome-fullstack#go-server)
-  - Java
+  - [Java](https://github.com/akullpp/awesome-java)
   - [Javascript](https://github.com/kevindeasis/awesome-fullstack#javascript-server)
-  - PHP
-  - Python
-  - Rails
-  - Scala
+  - [PHP](https://github.com/ziadoz/awesome-php)
+  - [Python](https://github.com/vinta/awesome-python)
+  - [Ruby](https://github.com/kevindeasis/awesome-fullstack#ruby)
+  - [Scala](https://github.com/lauris/awesome-scala)
   - Agnostic
+
 2. [Networking](https://github.com/kevindeasis/awesome-fullstack#networking)
 3. API / RESTful Service
 4. Serverless
@@ -135,7 +143,7 @@ MIT
 9. OWASP
 10. Dev Ops / Environment
   1. Vagrant
-  2. Docker
+  2. [Docker](https://github.com/veggiemonk/awesome-docker)
 11. Tools
   - Postman
   - Poster
@@ -145,7 +153,7 @@ MIT
   - Puppet
   - Chef
   - Ansible
-  - Docker
+  - [Docker](https://github.com/veggiemonk/awesome-docker)
 13. Platforms
   - PAAS
     - Digital Ocean
@@ -171,6 +179,7 @@ MIT
 3. NewSql
 4. Caching
 5. Search
+6. [Data Sets](https://github.com/caesar0301/awesome-public-datasets)
 
 # Dev Ops, Continuous Delivery/Integration/Deployment
 > The practice of collaborating for software deployment
@@ -194,7 +203,7 @@ MIT
 > The process of manging the task to deploy a product/feature
 
 # Algorithms and Data Structures
-> How to solve a problem
+> Algorithms, AI, and ML
 
 - [Better Explained](http://betterexplained.com/)
 - [MIT ALgorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
@@ -208,15 +217,19 @@ MIT
 - [ACM introduction to programming contest stanford](http://web.stanford.edu/class/cs97si/)
 - [Competitive programming course](https://algo.is/t-414-aflv-competitive-programming-course-2016/)
 
+## Machine Learning
+-[Awesome ML](https://github.com/josephmisiti/awesome-machine-learning)
+- [Data Sets(https://github.com/caesar0301/awesome-public-datasets)
+
 # Paradigms
 > Programming Paradigms
 
 # Community
 > Find people who share your collective identity
 
-1. Stackoverflow
-2. HN
-3. Reddit
+1. [Stackoverflow](http://stackoverflow.com)
+2. [HN](http://news.ycombinator.com)
+3. [Reddit](http://reddit.com/r/programming)
 
 # HTML Intro
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)
@@ -269,17 +282,12 @@ MIT
 # Server side
 > Server side programming different languages
 
-# C, C++, C# Server
-
 # Server Erlang
 - [Elixir/Erlang](http://www.phoenixframework.org/docs/learning-elixir-and-erlang)
 
 # Go Server
 - [A tour of golang](https://tour.golang.org/welcome/1)
 - [Go Wiki](https://github.com/golang/go/wiki/Learn)
-
-
-# Java Server
 
 # Javascript Server
 - [Node School](http://nodeschool.io/)
@@ -292,15 +300,12 @@ MIT
 - [node tuts](http://nodetuts.com/)
 - [Airbnb style guide](https://github.com/airbnb/javascript)
 
-# PHP Server
+# Ruby
+- [Ruby by dreikanter](https://github.com/dreikanter/ruby-bookmarks)
+- [Ruby by markets](https://github.com/markets/awesome-ruby)
+- [Ruby by Sdogruyol](https://github.com/Sdogruyol/awesome-ruby)
+- [Awesome Rails](https://github.com/ekremkaraca/awesome-rails)
 
-# Python Server
-
-# Rails Server
-
-# Scala Server
-
-# Agnostic Server
 
 # Networking
 - [Online Course: Computer Networking Playlist](https://www.youtube.com/watch?v=d4_7dUFl4v0&list=PLkHsKoi6eZnzJl1qTzmvBwTxrSJW4D2Jj)
