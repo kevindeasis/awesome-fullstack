@@ -173,13 +173,8 @@ MIT
 # Back-end tier (Database)
 >Stores and retrieves your data
 
->1. **Sql**
-2. **NoSql**
-  - Realtime
-  - Document
-  - Key Value
-  - Memory / Caching
-  - Column
+>1. [**Sql**](https://github.com/kevindeasis/awesome-fullstack#sql)
+2. [**NoSql**](https://github.com/kevindeasis/awesome-fullstack#nosql)
 3. **NewSql**
 4. **Caching**
 5. **Search**
@@ -366,12 +361,22 @@ MIT
 - [awesome microservices](https://github.com/mfornos/awesome-microservices)
 
 # Sql
+- [Setting Up SQL/ PostgreSQL](https://github.com/snowplow/snowplow/wiki/Setting-up-PostgreSQL)
 - [Bostongis: Postgis](http://www.bostongis.com/)
 - [Boundless geo: Postgis](http://workshops.boundlessgeo.com/suiteintro/postgis/index.html)
 - [Archaeogeek: Postgis](http://www.archaeogeek.com/portable-gis.html)
 - [Dublin Institute: Postgis](http://www.comp.dit.ie/pbrowne/Spatial%20Databases%20SDEV4005/Spatial%20Databases%20SDEV4005.htm)
 - [osgeo posgis wiki: Postgis](http://trac.osgeo.org/postgis/wiki/UsersWikiTutorials)
 - [Postgis in action: Postgis](https://www.manning.com/books/postgis-in-action-second-edition)
+
+# NoSQL
+- Realtime
+  - [Awesome RethinkDB by analytik](https://github.com/analytik/awesome-rethinkdb)
+  - [Awesome RethinkDB by d3viant0ne](https://github.com/d3viant0ne/awesome-rethinkdb)
+- Document
+- Key Value
+- Memory / Caching
+- Column
 
 # Dev Ops
 - [awesome continuous integration and delivery](https://github.com/ciandcd/awesome-ciandcd)
