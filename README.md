@@ -168,7 +168,7 @@ MIT
 # Back-end tier (Database)
 >Stores and retrieves your data
 
->1.**Sql**
+>1. **Sql**
 2. **NoSql**
   - Realtime
   - Document
