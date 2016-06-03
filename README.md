@@ -27,18 +27,18 @@ MIT
 # Front-end tier
 > What people see; User Interface / User Experience / Client Side / Design / Games / Mobile / T.V. / Hardware
 
->1. HTML
+>1. **HTML**
   - [Intro](https://github.com/kevindeasis/awesome-fullstack#html-intro)
-2. CSS
+2. **CSS**
   1. [Intro](https://github.com/kevindeasis/awesome-fullstack#css-intro)
   2. [Animations](https://robots.thoughtbot.com/css-animation-for-beginners)
     - [Css animation for beginners (Youtube)](https://www.youtube.com/watch?v=D9YQBaDBJ88)
-3. Javascript
+3. **Javascript**
   1. [Intro](https://github.com/kevindeasis/awesome-fullstack#js-intro)
   2. [Jquery](https://github.com/kevindeasis/awesome-fullstack#jquery-intro)
   3. [JS Intermediate](https://github.com/kevindeasis/awesome-fullstack#js-intermediate)
   4. [Awesome JS](https://github.com/kevindeasis/awesome-fullstack#awesome-js-list)
-4. Client Side Development (Web)
+4. **Client Side Development (Web)**
   - MVC-ish Frameworks
       - React
         - Redux
@@ -78,18 +78,18 @@ MIT
       - [Website Laung Checklist](https://news.ycombinator.com/item?id=9522885)
       - [Web Components](https://github.com/webcomponents/gold-standard/wiki)
       - [Web checklist](http://tryblocks.com/departure/index.html)
-5. Design, Copy Writing, SEO, Optimization
+5. **Design, Copy Writing, SEO, Optimization**
   - [Awesome Design, UI/UX](https://github.com/kevindeasis/awesome-ui)
   - [Optimization](https://github.com/davidsonfellipe/awesome-wpo)
   - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization)
   - [Web Components the right way](https://github.com/mateusortiz/webcomponents-the-right-way)
-6. Mobile
+6. **Mobile**
   1. Android
   2. Ios
   3. Windows
   4. Black Berry
   5. Cross Platform
-7. Gaming
+7. **Gaming**
   1. [Unity](https://unity3d.com/)
   2. [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4)
   3. [GameMaker](http://www.yoyogames.com/gamemaker)
@@ -100,16 +100,16 @@ MIT
   8. [Amazon Lumberyard](http://aws.amazon.com/lumberyard/)
   9. [2D resources](https://www.reddit.com/r/Unity2D/comments/3dfi5k/lets_create_a_list_of_all_100_free_2d_assets_with/)
   10. [2D unity rpg tutorial](https://www.youtube.com/watch?v=NNpLsimyu3I&index=1&list=PL_4rJ_acBNMH3SExL3yIOzaqj5IP5CJLC)
-8. IoT
+8. **IoT**
   1. Arduino
   2. Raspberry Pi
-9. Embedded
+9. **Embedded**
 
 
 # Middle-tier
 >The endpoint that talks to the client-side and the database
 
->1. [Web Servers by language](https://github.com/kevindeasis/awesome-fullstack#server-side)
+>1. [**Web Servers by language**](https://github.com/kevindeasis/awesome-fullstack#server-side)
   - [C](https://github.com/kozross/awesome-c)
   - [C++](https://github.com/fffaraz/awesome-cpp)
   - [C# / Dotnet](https://github.com/quozd/awesome-dotnet)
@@ -123,12 +123,12 @@ MIT
   - [Scala](https://github.com/lauris/awesome-scala)
   - Agnostic
 
-2. [Networking](https://github.com/kevindeasis/awesome-fullstack#networking)
-3. API / RESTful Service
-4. Serverless
-5. Command Line
-6. Hosting
-7. Micro Services
+2. [**Networking**](https://github.com/kevindeasis/awesome-fullstack#networking)
+3. **API / RESTful Service**
+4. **Serverless**
+5. **Command Line**
+6. **Hosting**
+7. **Micro Services**
 8. [Testing](http://stackoverflow.com/questions/520064/what-is-unit-test-integration-test-smoke-test-regression-test)
   1. Unit Test
   2. Integration Test / Functional Test
@@ -139,21 +139,21 @@ MIT
   7. Flagging Test
   8. End to End Test
   9. [Blogs](http://googletesting.blogspot.ca/2015/04/just-say-no-to-more-end-to-end-tests.html)
-9. OWASP
-10. Dev Ops / Environment
+9. **OWASP**
+10. **Dev Ops / Environment**
   1. Vagrant
   2. [Docker](https://github.com/veggiemonk/awesome-docker)
-11. Tools
+11. **Tools**
   - Postman
   - Poster
   - Wire shark
-12. Configuration Management (CM) / Server Management
+12. **Configuration Management (CM) / Server Management**
   - Salt
   - Puppet
   - Chef
   - Ansible
   - [Docker](https://github.com/veggiemonk/awesome-docker)
-13. Platforms
+13. **Platforms**
   - PAAS
     - Digital Ocean
     - AWS
@@ -161,24 +161,24 @@ MIT
     - Google Cloud
   - IAAS
   - BAAS
-14. Checklist
+14. **Checklist**
   - [Checklist](https://securitychecklist.org/)
   - [Linux](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md)
 
 # Back-end tier (Database)
 >Stores and retrieves your data
 
->1. Sql
-2. NoSql
+>1.**Sql**
+2. **NoSql**
   - Realtime
   - Document
   - Key Value
   - Memory / Caching
   - Column
-3. NewSql
-4. Caching
-5. Search
-6. [Data Sets](https://github.com/caesar0301/awesome-public-datasets)
+3. **NewSql**
+4. **Caching**
+5. **Search**
+6. [**Data Sets**](https://github.com/caesar0301/awesome-public-datasets)
 
 # Dev Ops, Continuous Delivery/Integration/Deployment
 > The practice of collaborating for software deployment
@@ -189,10 +189,10 @@ MIT
 - Feature toggle
 - Artifacts
 - Rollbacks
-- Tools
+- **Tools**
   1. Jenkins
   2. Travis
-- Cluster Management / Containers / Infrastructure
+- **Cluster Management / Containers / Infrastructure**
   1. Kubernetes
   2. Docker + Vagrant
   3. Terraform
