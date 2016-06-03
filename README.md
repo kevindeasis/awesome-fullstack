@@ -2,7 +2,8 @@
 
 > A curated list on how to Full Stack
 
-Learn front-end, middle-tier, back-end tier, algorithms, and continuous delivery
+Learn front-end, middle-tier, back-end tier, algorithms, and continuous delivery. Note: if you
+go to stackoverflow and click any tag, then go to the info tab, it should contain resources about that tag.
 
 # What to Learn
 >1. [Front End](https://github.com/kevindeasis/awesome-fullstack#front-end-tier)
@@ -13,6 +14,7 @@ Learn front-end, middle-tier, back-end tier, algorithms, and continuous delivery
 6. [Community](https://github.com/kevindeasis/awesome-fullstack#community)
 7. [Open Sourcing: TBD](#)
 8. [Jobs](https://github.com/kevindeasis/awesome-fullstack#jobs)
+9. [Other](https://github.com/kevindeasis/awesome-fullstack#other)
 
 
 ## License
@@ -124,7 +126,6 @@ MIT
   - [Python](https://github.com/vinta/awesome-python)
   - [Ruby](https://github.com/kevindeasis/awesome-fullstack#ruby)
   - [Scala](https://github.com/lauris/awesome-scala)
-  - Agnostic
 
 2. [**Networking**](https://github.com/kevindeasis/awesome-fullstack#networking)
 3. **API / RESTful Service**
@@ -156,14 +157,15 @@ MIT
   - Chef
   - Ansible
   - [Docker](https://github.com/veggiemonk/awesome-docker)
-13. **Platforms**
+13. [**Platforms**](https://github.com/kevindeasis/awesome-fullstack#platforms)
   - PAAS
     - Digital Ocean
-    - AWS
+    - [AWS](https://github.com/kevindeasis/awesome-fullstack#aws)
     - Heroku
     - Google Cloud
   - IAAS
   - BAAS
+  - [Self Hosting](https://github.com/Kickball/awesome-selfhosted)
 14. **Checklist**
   - [Checklist](https://securitychecklist.org/)
   - [Linux](https://github.com/lfit/itpol/blob/master/linux-workstation-security.md)
@@ -266,6 +268,8 @@ MIT
 - [codeacademy](https://www.codecademy.com/learn/javascript)
 - [egghead](https://egghead.io/technologies/js)
 - [codeschool](https://www.codeschool.com/learn/javascript)
+- [Stackoverflow Resource](http://stackoverflow.com/tags/javascript/info)
+
 
 # Jquery Intro
 - [Free code camp](https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work)
@@ -299,13 +303,18 @@ MIT
 
 # Server Erlang
 - [Elixir/Erlang](http://www.phoenixframework.org/docs/learning-elixir-and-erlang)
+- [StackOverflow Erlang](http://stackoverflow.com/tags/erlang/info)
 
 # Go Server
 - [A tour of golang](https://tour.golang.org/welcome/1)
 - [Go Wiki](https://github.com/golang/go/wiki/Learn)
+- [Stack Overflow Go](http://stackoverflow.com/tags/go/info)
+- [Awesome Go](https://github.com/avelino/awesome-go)
+- [Awesome Go China](https://github.com/hyper-carrot/awesome-go-China)
 
 # Javascript Server
 - [Node School](http://nodeschool.io/)
+- [Stackoverflow Resource](http://stackoverflow.com/tags/javascript/info)
 - [LearnCode.Academy](https://www.youtube.com/watch?v=pU9Q6oiQNd0&list=PLoYCgNOIyGAACzU6GliHJDp4kmOw3NFsh)
 - [Code School](https://www.codeschool.com/courses/real-time-web-with-node-js)
 - [Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node)
@@ -320,6 +329,7 @@ MIT
 - [Ruby by markets](https://github.com/markets/awesome-ruby)
 - [Ruby by Sdogruyol](https://github.com/Sdogruyol/awesome-ruby)
 - [Awesome Rails](https://github.com/ekremkaraca/awesome-rails)
+- [Stackoverflow Ruby Resources](http://stackoverflow.com/tags/ruby/info)
 
 
 # Networking
@@ -378,23 +388,28 @@ MIT
 - [Smart Bear](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
 - [Fog Creek](http://blog.fogcreek.com/effective-code-reviews-9-tips-from-a-converted-skeptic/)
 - [Methods and Tools](http://www.methodsandtools.com/archive/archive.php?id=66)
+- [Self Hosting](https://github.com/Kickball/awesome-selfhosted)
 
 # Configuration Management
 - [Docker](https://www.docker.com/what-docker)
   - [LearnCode.Academy: Docker](https://www.youtube.com/watch?v=pGYAg7TMmp0)
 
 # Platforms
-  - [Paas]
+  - Iaas
+    - [Awesome AWS](https://github.com/donnemartin/awesome-aws)
+  - Paas
     - [App Engine](https://en.wikipedia.org/wiki/Google_App_Engine)
     - [AWS Elastic Beanstalk](http://aws.amazon.com/elasticbeanstalk/)
     - [Open Shift](https://en.wikipedia.org/wiki/OpenShift)
     - [Blue Minx](http://www.ibm.com/cloud-computing/bluemix/)
     - [Heroku](https://www.heroku.com/)
     - [Azure](https://azure.microsoft.com/en-us/services/app-service/web/)
-  - [BAAS]
+  - BAAS
     - [Firebase](https://www.firebase.com/)
     - [Pubnub](https://www.pubnub.com/)
     - [Pusher](https://pusher.com/)
+  - [Self Hosted](https://github.com/Kickball/awesome-selfhosted)
+
 
 # Resource
 > Other stuff
@@ -453,6 +468,11 @@ MIT
 - [LaTeX / PDF](http://www.latex-tutorial.com/tutorials/)
 - [Git](http://marc.helbling.fr/2014/09/practical-git-introduction)
 - [Text Editor](https://www.learnenough.com/text-editor-tutorial)
+- [System Programming](https://github.com/angrave/SystemProgramming/wiki)
+- [Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness)
+- [Awesome](https://github.com/sindresorhus/awesome)
+- [Awesome OSX command line](https://github.com/herrbischoff/awesome-osx-command-line)
+- [Stock Stuff](https://github.com/neutraltone/awesome-stock-resources)
 
 # Jobs
 - [awesome interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
