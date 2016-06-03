@@ -80,6 +80,7 @@ MIT
       - [Web checklist](http://tryblocks.com/departure/index.html)
 5. **Design, Copy Writing, SEO, Optimization**
   - [Awesome Design, UI/UX](https://github.com/kevindeasis/awesome-ui)
+  - [Design Resources in HH Design](https://medium.com/hh-design/design-resources-5071be5f2e43)
   - [Optimization](https://github.com/davidsonfellipe/awesome-wpo)
   - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization)
   - [Web Components the right way](https://github.com/mateusortiz/webcomponents-the-right-way)
@@ -89,7 +90,9 @@ MIT
   3. Windows
   4. Black Berry
   5. Cross Platform
+  6. [React Native](https://github.com/kevindeasis/awesome-fullstack#react-native)
 7. **Gaming**
+  0. [Amit's Gaming Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
   1. [Unity](https://unity3d.com/)
   2. [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4)
   3. [GameMaker](http://www.yoyogames.com/gamemaker)
@@ -179,6 +182,8 @@ MIT
 4. **Caching**
 5. **Search**
 6. [**Data Sets**](https://github.com/caesar0301/awesome-public-datasets)
+7. [**Data Mining**](http://guidetodatamining.com/)
+
 
 # Dev Ops, Continuous Delivery/Integration/Deployment
 > The practice of collaborating for software deployment
@@ -217,7 +222,9 @@ MIT
 - [Competitive programming course](https://algo.is/t-414-aflv-competitive-programming-course-2016/)
 
 ## Machine Learning
--[Awesome ML](https://github.com/josephmisiti/awesome-machine-learning)
+- [Awesome ML](https://github.com/josephmisiti/awesome-machine-learning)
+- [Andrew Ng Coursera](https://www.coursera.org/learn/machine-learning)
+- [Neural Networks & Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 - [Data Sets(https://github.com/caesar0301/awesome-public-datasets)
 
 # Paradigms
@@ -278,6 +285,15 @@ MIT
 - [Awesome Promises](https://github.com/wbinnssmith/awesome-promises)
 - [Awesome Books](https://github.com/wbinnssmith/awesome-promises)
 
+# React Native
+- [Official](https://facebook.github.io/react-native/)
+- [Awesome React Native](https://github.com/jondot/awesome-react-native)
+- [React Native](https://rnplay.org)
+- [Resource](http://www.reactnative.com/)
+- [Egg Head](https://egghead.io/lessons/react-react-native-up-and-running?series=react-native-fundamentals)
+- [JS coach](https://js.coach/react-native)
+
+
 # Server side
 > Server side programming different languages
 
@@ -308,6 +324,7 @@ MIT
 
 # Networking
 - [Online Course: Computer Networking Playlist](https://www.youtube.com/watch?v=d4_7dUFl4v0&list=PLkHsKoi6eZnzJl1qTzmvBwTxrSJW4D2Jj)
+- [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/output/html/multipage/index.html)
 - [LearnCode.Academy: How the Internet Works](https://www.youtube.com/watch?v=e4S8zfLdLgQ)
 - [Eli the computer guy on youtube: Networking](https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5)
 - [danscourses: youtube channel](https://www.youtube.com/user/danscourses/featured)
@@ -430,6 +447,12 @@ MIT
 - [First Open Source Projects to Contribute to](http://up-for-grabs.net/#/)
 - [Blog about beginner open source](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.uki6osi6z)
 - [Code Triage](https://www.codetriage.com/)
+
+# Other
+- [Hacking](https://www.hacksplaining.com/)
+- [LaTeX / PDF](http://www.latex-tutorial.com/tutorials/)
+- [Git](http://marc.helbling.fr/2014/09/practical-git-introduction)
+- [Text Editor](https://www.learnenough.com/text-editor-tutorial)
 
 # Jobs
 - [awesome interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
