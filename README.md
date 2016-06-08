@@ -130,7 +130,7 @@ MIT
 2. [**Networking**](https://github.com/kevindeasis/awesome-fullstack#networking)
 3. **API / RESTful Service**
 4. **Serverless**
-5. **Command Line**
+5. [**Command Line**]((https://github.com/kevindeasis/awesome-fullstack#command-line)
 6. **Hosting**
 7. **Micro Services**
 8. [Testing](http://stackoverflow.com/questions/520064/what-is-unit-test-integration-test-smoke-test-regression-test)
@@ -222,7 +222,7 @@ MIT
 - [Awesome ML](https://github.com/josephmisiti/awesome-machine-learning)
 - [Andrew Ng Coursera](https://www.coursera.org/learn/machine-learning)
 - [Neural Networks & Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
-- [Data Sets(https://github.com/caesar0301/awesome-public-datasets)
+- [Data Sets](https://github.com/caesar0301/awesome-public-datasets)
 
 # Paradigms
 > Programming Paradigms
@@ -353,6 +353,22 @@ MIT
 - [Internet Emerging Tech](https://www.coursera.org/learn/internet-technologies)
 - [GNS3 Academy](http://academy.gns3.com/)
 
+
+## DNS
+- [DNS the good parts](https://www.petekeen.net/dns-the-good-parts)
+
+## Computer Networking and Security
+- [Ryan Lindfield](https://www.youtube.com/user/ryan813/about)
+
+# Command Line
+- [Awesome command line](https://github.com/herrbischoff/awesome-osx-command-line)
+- [Art of command line](https://github.com/jlevy/the-art-of-command-line)
+- [Awesome OSX command line](https://github.com/herrbischoff/awesome-osx-command-line)
+- [Data Science command line](http://datascienceatthecommandline.com/)
+- [Fish](http://fishshell.com/)
+- [Syntax Highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+
+
 # Serverless
 - [Horizon](http://horizon.io/)
 - [Lambda](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
@@ -361,6 +377,7 @@ MIT
 - [awesome microservices](https://github.com/mfornos/awesome-microservices)
 
 # Sql
+- [Awesome Sql](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
 - [Setting Up SQL/ PostgreSQL](https://github.com/snowplow/snowplow/wiki/Setting-up-PostgreSQL)
 - [Bostongis: Postgis](http://www.bostongis.com/)
 - [Boundless geo: Postgis](http://workshops.boundlessgeo.com/suiteintro/postgis/index.html)
@@ -476,7 +493,6 @@ MIT
 - [System Programming](https://github.com/angrave/SystemProgramming/wiki)
 - [Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [Awesome](https://github.com/sindresorhus/awesome)
-- [Awesome OSX command line](https://github.com/herrbischoff/awesome-osx-command-line)
 - [Stock Stuff](https://github.com/neutraltone/awesome-stock-resources)
 
 # Jobs
