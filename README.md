@@ -130,7 +130,7 @@ MIT
 2. [**Networking**](https://github.com/kevindeasis/awesome-fullstack#networking)
 3. **API / RESTful Service**
 4. **Serverless**
-5. [**Command Line**]((https://github.com/kevindeasis/awesome-fullstack#command-line)
+5. [**Command Line**](https://github.com/kevindeasis/awesome-fullstack#command-line)
 6. **Hosting**
 7. **Micro Services**
 8. [Testing](http://stackoverflow.com/questions/520064/what-is-unit-test-integration-test-smoke-test-regression-test)
