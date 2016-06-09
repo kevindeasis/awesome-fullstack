@@ -361,6 +361,7 @@ MIT
 - [Ryan Lindfield](https://www.youtube.com/user/ryan813/about)
 
 # Command Line
+- [Commands for different operating system](http://ss64.com/)
 - [Awesome command line](https://github.com/herrbischoff/awesome-osx-command-line)
 - [Art of command line](https://github.com/jlevy/the-art-of-command-line)
 - [Awesome OSX command line](https://github.com/herrbischoff/awesome-osx-command-line)
