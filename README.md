@@ -42,38 +42,39 @@ MIT
   4. [Awesome JS](https://github.com/kevindeasis/awesome-fullstack#awesome-js-list)
 4. **Client Side Development (Web)**
   - MVC-ish Frameworks
-      - React
-        - Redux
-        - Flux
-      - Agular 2
-      - Agular 1
-      - Backbone
-      - Ember
-      - Mithril
+      - [React](https://github.com/kevindeasis/awesome-fullstack#react)
+        - [Redux](https://github.com/kevindeasis/awesome-fullstack#redux)
+      - [Agular 2](https://github.com/AngularClass/awesome-angular2)
+      - [Agular 1](https://github.com/gianarb/awesome-angularjs)
+      - [Backbone](https://github.com/sadcitizen/awesome-backbone)
+      - [Ember](https://github.com/nmec/awesome-ember)
+      - [Mithril](https://github.com/lhorie/mithril)
   - Build Tools
-      - Webpack
-      - Browserify
-      - Gulp
-      - Grunt
+      - [Webpack](https://webpack.github.io/docs/tutorials/getting-started/)
+      - [Browserify](http://browserify.org/)
+      - [Gulp](https://github.com/alferov/awesome-gulp)
+      - [Grunt](http://gruntjs.com/)
   - Web App (Tools / Libraries / Frameworks)
     1. CSS / Stylesheet language
-      - Sass
-      - Less
+      - [Inline Styles](https://github.com/erikras/react-redux-universal-hot-example/blob/master/docs/InlineStyles.md)
+      - [Sass](http://sass-lang.com/)
+      - [Less](http://lesscss.org/)
     2. Web Framework
-      - Bootstrap
-      - Google Material Design Lite
-      - Foundation
-      - Bourbon
+      - [Materialize](http://materializecss.com/)
+      - [Bootstrap](http://getbootstrap.com/)
+      - [Google Material Design Lite](https://getmdl.io/)
+      - [Foundation](http://foundation.zurb.com/)
   - Testing
-      - Selenium
-      - Jest
-      - Mocha
-      - Jasmine
-      - Chai
-      - Sinon
+      - [Selenium](http://www.seleniumhq.org/)
+      - [Jest](https://facebook.github.io/jest/)
+      - [Mocha](https://mochajs.org/)
+      - [Jasmine](jasmine.github.io/)
+      - [Chai](chaijs.com/)
+      - [Sinon](sinonjs.org/)
   - Tools
-      - Google Analytics
-      - Heatmap
+      - [Google Analytics](https://www.google.ca/analytics/)
+      - [Crazy Egg](https://www.crazyegg.com/)
+      - [Sumo Me](https://sumome.com/app/heat-maps)
   - Checklist
       - [Web Checklist](http://webdevchecklist.com/), [Github](https://github.com/ligershark/webdevchecklist.com)
       - [Landing Page Checklist](http://unbounce.com/landing-pages/checklist/)
@@ -87,11 +88,11 @@ MIT
   - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization)
   - [Web Components the right way](https://github.com/mateusortiz/webcomponents-the-right-way)
 6. **Mobile**
-  1. Android
-  2. Ios
-  3. Windows
-  4. Black Berry
-  5. Cross Platform
+  1. [Android](https://github.com/JStumpp/awesome-android)
+  2. [Ios Swift](https://github.com/matteocrippa/awesome-swift) OR [awesome ios](https://github.com/vsouza/awesome-ios)
+  3. [Windows](https://developer.microsoft.com/en-us/windows)
+  4. [Black Berry](https://developer.blackberry.com/)
+  5. [Native Script](https://www.nativescript.org/)
   6. [React Native](https://github.com/kevindeasis/awesome-fullstack#react-native)
 7. **Gaming**
   0. [Amit's Gaming Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
@@ -106,9 +107,9 @@ MIT
   9. [2D resources](https://www.reddit.com/r/Unity2D/comments/3dfi5k/lets_create_a_list_of_all_100_free_2d_assets_with/)
   10. [2D unity rpg tutorial](https://www.youtube.com/watch?v=NNpLsimyu3I&index=1&list=PL_4rJ_acBNMH3SExL3yIOzaqj5IP5CJLC)
 8. **IoT**
-  1. Arduino
-  2. Raspberry Pi
-9. **Embedded**
+  1. [Arduino](https://github.com/Lembed/Awesome-arduino)
+  2. [Raspberry Pi](https://github.com/blackout314/awesome-raspberry-pi)
+9. [**Embedded**](http://www.instructables.com/tag/type-id/category-technology/)
 
 
 # Middle-tier
@@ -129,6 +130,8 @@ MIT
 
 2. [**Networking**](https://github.com/kevindeasis/awesome-fullstack#networking)
 3. **API / RESTful Service**
+  - [Awesome REST](https://github.com/marmelab/awesome-rest)
+  - [Awesome API](https://github.com/Kikobeats/awesome-api)
 4. **Serverless**
 5. [**Command Line**](https://github.com/kevindeasis/awesome-fullstack#command-line)
 6. **Hosting**
@@ -143,28 +146,36 @@ MIT
   7. Flagging Test
   8. End to End Test
   9. [Blogs](http://googletesting.blogspot.ca/2015/04/just-say-no-to-more-end-to-end-tests.html)
-9. **OWASP**
+9. [**OWASP**](https://www.owasp.org/index.php/Main_Page)
 10. **Dev Ops / Environment**
-  1. Vagrant
+  1. [Vagrant](https://www.vagrantup.com/)
   2. [Docker](https://github.com/veggiemonk/awesome-docker)
 11. **Tools**
-  - Postman
-  - Poster
-  - Wire shark
+  - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
+  - [Wire shark](https://www.wireshark.org/)
 12. **Configuration Management (CM) / Server Management**
-  - Salt
-  - Puppet
-  - Chef
-  - Ansible
+  - [Salt](https://saltstack.com/)
+  - [Puppet](https://puppet.com/)
+  - [Chef](https://www.chef.io/)
+  - [Ansible](https://www.ansible.com/)
   - [Docker](https://github.com/veggiemonk/awesome-docker)
+  - [Kubernetes](kubernetes.io/)
+  - [Docker Compose](https://docs.docker.com/compose/)
 13. [**Platforms**](https://github.com/kevindeasis/awesome-fullstack#platforms)
   - PAAS
-    - Digital Ocean
     - [AWS](https://github.com/kevindeasis/awesome-fullstack#aws)
-    - Heroku
-    - Google Cloud
+    - [Heroku](https://www.heroku.com/)
+    - [Google Cloud App Engine](https://cloud.google.com/appengine/docs)
   - IAAS
+    - [Digital Ocean](https://www.digitalocean.com/)
+    - [Open Shift](https://www.openshift.com/)
+    - [GCE](https://cloud.google.com/compute/)
+    - [AWS](http://aws.amazon.com/)
   - BAAS
+    - [Compose](https://compose.io/)
+    - [firebase](https://www.firebase.com/)
+    - [pusher](https://pusher.com/)
+    - [pubnub](https://www.pubnub.com/)
   - [Self Hosting](https://github.com/Kickball/awesome-selfhosted)
 14. **Checklist**
   - [Checklist](https://securitychecklist.org/)
@@ -175,7 +186,7 @@ MIT
 
 >1. [**Sql**](https://github.com/kevindeasis/awesome-fullstack#sql)
 2. [**NoSql**](https://github.com/kevindeasis/awesome-fullstack#nosql)
-3. **NewSql**
+3. [**NewSql**](https://en.wikipedia.org/wiki/NewSQL)
 4. **Caching**
 5. **Search**
 6. [**Data Sets**](https://github.com/caesar0301/awesome-public-datasets)
@@ -184,6 +195,7 @@ MIT
 
 # Dev Ops, Continuous Delivery/Integration/Deployment
 > The practice of collaborating for software deployment
+- [Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems)
 
 >- Continuous integration
 - Continuous delivery
@@ -192,12 +204,12 @@ MIT
 - Artifacts
 - Rollbacks
 - **Tools**
-  1. Jenkins
-  2. Travis
+  1. [Jenkins](https://jenkins.io)
+  2. [Travis](https://travis-ci.org)
 - **Cluster Management / Containers / Infrastructure**
-  1. Kubernetes
+  1. [Kubernetes](http://kubernetes.io/)
   2. Docker + Vagrant
-  3. Terraform
+  3. [Terraform](https://www.terraform.io/)
 
 
 #Software Product Management
@@ -283,6 +295,13 @@ MIT
 - [Awesome JS:Learning Guide](https://github.com/wwsun/awesome-javascript)
 - [Awesome Promises](https://github.com/wbinnssmith/awesome-promises)
 - [Awesome Books](https://github.com/wbinnssmith/awesome-promises)
+
+# React
+- [awesome react](https://github.com/enaqx/awesome-react)
+
+# Redux
+- [awesome redux](https://github.com/xgrommx/awesome-redux)
+
 
 # React Native
 - [Official](https://facebook.github.io/react-native/)
@@ -495,6 +514,13 @@ MIT
 - [Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Stock Stuff](https://github.com/neutraltone/awesome-stock-resources)
+- [APIs](https://github.com/Abhishaker17/Awesome-APIs)
+- [ web scraping](https://news.ycombinator.com/item?id=4893864)
+- [Data mining](http://guidetodatamining.com/)
+- [Data mining algorithm](https://github.com/linyiqun/DataMiningAlgorithm)
+- [mining software repos](https://github.com/dspinellis/awesome-msr)
+- [Data mining books](https://www.lenwood.cc/2014/05/13/12-free-data-mining-books/)
+- [Data mining algo](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 
 # Jobs
 - [awesome interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
