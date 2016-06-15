@@ -137,19 +137,17 @@ MIT
 6. **Hosting**
 7. **Micro Services**
 8. [Testing](http://stackoverflow.com/questions/520064/what-is-unit-test-integration-test-smoke-test-regression-test)
-  1. Unit Test
-  2. Integration Test / Functional Test
-  3. Smoke Test (Sanity check)
-  4. Regression Test
-  5. Acceptance Test
-  6. Systems Test
-  7. Flagging Test
-  8. End to End Test
+  1. [Unit Test](https://github.com/kevindeasis/awesome-fullstack#unit-testing)
+  2. [Integration Test / Functional Test](https://github.com/kevindeasis/awesome-fullstack#integration-testing)
+  3. [Smoke Test (Sanity check)](https://github.com/kevindeasis/awesome-fullstack#smoke-testing)
+  4. [Regression Test](https://github.com/kevindeasis/awesome-fullstack#regression-testing)
+  5. [Acceptance Test](https://github.com/kevindeasis/awesome-fullstack#acceptance-testing)
+  6. [Systems Test](https://github.com/kevindeasis/awesome-fullstack#systems-testing)
+  7. [Flagging Test](https://github.com/kevindeasis/awesome-fullstack#flagging-test)
+  8. [End to End Test](https://github.com/kevindeasis/awesome-fullstack#end-to-end-testing)
   9. [Blogs](http://googletesting.blogspot.ca/2015/04/just-say-no-to-more-end-to-end-tests.html)
 9. [**OWASP**](https://www.owasp.org/index.php/Main_Page)
-10. **Dev Ops / Environment**
-  1. [Vagrant](https://www.vagrantup.com/)
-  2. [Docker](https://github.com/veggiemonk/awesome-docker)
+10. [**Dev Ops / Environment/ Continous Integration**](https://github.com/kevindeasis/awesome-fullstack#dev-ops-continuous-deliveryintegrationdeployment)
 11. **Tools**
   - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
   - [Wire shark](https://www.wireshark.org/)
@@ -196,8 +194,8 @@ MIT
 # Dev Ops, Continuous Delivery/Integration/Deployment
 > The practice of collaborating for software deployment
 - [Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems)
-
->- Continuous integration
+- [Dev Ops](https://github.com/kevindeasis/awesome-fullstack#dev-ops)
+- Continuous integration
 - Continuous delivery
 - Continuous deployment
 - Feature toggle
@@ -206,14 +204,25 @@ MIT
 - **Tools**
   1. [Jenkins](https://jenkins.io)
   2. [Travis](https://travis-ci.org)
+  3. [Habitat.sh automation](https://www.habitat.sh/)
+  4. [Vagrant](https://www.vagrantup.com/)
+  5. [Docker](https://github.com/veggiemonk/awesome-docker)
 - **Cluster Management / Containers / Infrastructure**
   1. [Kubernetes](http://kubernetes.io/)
   2. Docker + Vagrant
   3. [Terraform](https://www.terraform.io/)
 
 
+
 #Software Product Management
 > The process of manging the task to deploy a product/feature
+
+- [Agile Manifesto](http://agilemethodology.org/)
+- [Software Development Process](https://en.wikipedia.org/wiki/Software_development_process)
+- [Software Requirements Specifications](https://en.wikipedia.org/wiki/Software_requirements_specification)
+- [Software Requirements](http://www.tutorialspoint.com/software_engineering/software_requirements.htm)
+- [Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
+- [Code Review](https://github.com/thoughtbot/guides/tree/master/code-review)
 
 # Algorithms and Data Structures
 > Algorithms, AI, and ML
@@ -237,7 +246,7 @@ MIT
 - [Data Sets](https://github.com/caesar0301/awesome-public-datasets)
 
 # Paradigms
-> Programming Paradigms
+> [Programming Paradigms](https://en.wikipedia.org/wiki/Programming_paradigm)
 
 # Community
 > Find people who share your collective identity
@@ -396,6 +405,26 @@ MIT
 # Microservices
 - [awesome microservices](https://github.com/mfornos/awesome-microservices)
 
+# [Unit Testing](https://en.wikipedia.org/wiki/Unit_testing)
+- [Martin Fowler](http://martinfowler.com/bliki/UnitTest.html)
+
+# [Integration Testing](https://en.wikipedia.org/wiki/Integration_testing)
+
+# [Smoke Testing](https://en.wikipedia.org/wiki/Smoke_testing_(software))
+
+# [Regression Testing](https://en.wikipedia.org/wiki/Regression_testing)
+
+# [Acceptance Testing](https://en.wikipedia.org/wiki/Acceptance_testing)
+
+# [Systems Testing](https://en.wikipedia.org/wiki/System_testing)
+
+# [Flagging Test](https://en.wikipedia.org/wiki/Feature_toggle)
+> a.k.a. feature toggle
+
+# [End to End Testing](http://stackoverflow.com/questions/19378183/difference-between-system-testing-and-end-to-end-testing)
+
+
+
 # Sql
 - [Awesome Sql](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
 - [Setting Up SQL/ PostgreSQL](https://github.com/snowplow/snowplow/wiki/Setting-up-PostgreSQL)
@@ -419,10 +448,8 @@ MIT
 - [awesome continuous integration and delivery](https://github.com/ciandcd/awesome-ciandcd)
 - [awesome sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [awesome microservice](https://github.com/mfornos/awesome-microservices)
-
-# Software Product Management
-- [Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
-- [Code Review](https://github.com/thoughtbot/guides/tree/master/code-review)
+- [Continuous Integration / Delivery / Dev Ops](https://github.com/ciandcd/awesome-ciandcd)
+- [CD](https://blog.risingstack.com/continuous-deployment-of-node-js-applications/)
 
 # Infrastructure
 - [Sysadmincats](https://sysadmincasts.com/)
@@ -471,9 +498,6 @@ MIT
 - [Front End ](https://github.com/micahgodbolt/front-end-architecture)
 - [Micro Service](https://github.com/mfornos/awesome-microservices)
 - [Sys admin / Devops etc.](https://github.com/kahun/awesome-sysadmin)
-- [Continuous Integration / Delivery / Dev Ops](https://github.com/ciandcd/awesome-ciandcd)
-
-- [CD](https://blog.risingstack.com/continuous-deployment-of-node-js-applications/)
 
 - [squaresce logo generator](https://www.squarespace.com/logo/)
 
@@ -505,6 +529,9 @@ MIT
 - [Blog about beginner open source](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.uki6osi6z)
 - [Code Triage](https://www.codetriage.com/)
 
+# Newsletters
+> coming soon
+
 # Other
 - [Hacking](https://www.hacksplaining.com/)
 - [LaTeX / PDF](http://www.latex-tutorial.com/tutorials/)
@@ -521,7 +548,23 @@ MIT
 - [mining software repos](https://github.com/dspinellis/awesome-msr)
 - [Data mining books](https://www.lenwood.cc/2014/05/13/12-free-data-mining-books/)
 - [Data mining algo](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
+- [stackshare](http://stackshare.io/)
 
 # Jobs
 - [awesome interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 - [awesome remote job](https://github.com/lukasz-madon/awesome-remote-job)
+- [working nomads](http://www.workingnomads.co/jobs)
+- [who is hiring](https://news.ycombinator.com/submitted?id=whoishiring)
+- [who is hiring](https://whoishiring.io/search/56.130/-105.732/3/?order=distance)
+- [stay in tech](https://stayintech.com/info/explore)
+- [triple byte](https://triplebyte.com/)
+- [angel list](https://angel.co/jobs)
+- [job hero weekly](http://www.jobheroweekly.com/)
+- [hnhiring](http://hnhiring.me/)
+- [simply hired](http://www.simplyhired.com/)
+- [hired](https://hired.ca/)
+- [lever](https://www.lever.co/)
+- [remote bas](https://remotebase.io/)
+- [nomad list](https://nomadlist.com/)
+- [remote teams](http://oinam.github.io/remote-teams/)
+- [we work remotely](https://weworkremotely.com/)
