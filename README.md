@@ -13,8 +13,9 @@ go to stackoverflow and click any tag, then go to the info tab, it should contai
 5. [Algorithms, AI, ML](https://github.com/kevindeasis/awesome-fullstack#algorithms-and-data-structures)
 6. [Community](https://github.com/kevindeasis/awesome-fullstack#community)
 7. [Open Sourcing: TBD](#)
-8. [Jobs](https://github.com/kevindeasis/awesome-fullstack#jobs)
-9. [Other](https://github.com/kevindeasis/awesome-fullstack#other)
+9. [Interview Preparation](https://github.com/kevindeasis/awesome-fullstack#interview-preparation)
+10. [Jobs](https://github.com/kevindeasis/awesome-fullstack#jobs)
+11. [Other](https://github.com/kevindeasis/awesome-fullstack#other)
 
 
 ## License
@@ -549,6 +550,22 @@ MIT
 - [Data mining books](https://www.lenwood.cc/2014/05/13/12-free-data-mining-books/)
 - [Data mining algo](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 - [stackshare](http://stackshare.io/)
+
+# Interview Preparation
+- [andreis curated guide](https://github.com/andreis/interview)
+- [David Byttow Post](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.szzt4wrh4)
+- [David Byttow Post #2](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.vznuf3phv)
+- [Dan Pupius](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.cx0e5uanq)
+- [Philip Youssef](http://www.restlessprogrammer.com/2013/09/hacking-coding-interview.html)
+- [Carlos Bueno facebook](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920)
+- [leet code](https://leetcode.com/)
+- [geek for geeks](http://www.geeksforgeeks.org/)
+- [careercup](https://www.careercup.com/resume)
+- [topcoder](https://community.topcoder.com/tc?module=ProblemArchive)
+- [codility](https://codility.com/programmers/)
+- [quora](https://www.quora.com/Where-can-I-find-difficult-algorithm-data-structure-problems)
+- [haseebq](http://haseebq.com/)
+- [haseebq](http://haseebq.com/farewell-app-academy-hello-airbnb-part-i/)
 
 # Jobs
 - [awesome interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
