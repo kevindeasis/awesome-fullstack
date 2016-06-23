@@ -111,6 +111,10 @@ MIT
   1. [Arduino](https://github.com/Lembed/Awesome-arduino)
   2. [Raspberry Pi](https://github.com/blackout314/awesome-raspberry-pi)
 9. [**Embedded**](http://www.instructables.com/tag/type-id/category-technology/)
+10. Desktop
+  1. [Awesome Electron](https://github.com/sindresorhus/awesome-electron)
+11. Plugins
+  1. [Awesome Plugins]
 
 
 # Middle-tier
@@ -321,7 +325,6 @@ MIT
 - [Egg Head](https://egghead.io/lessons/react-react-native-up-and-running?series=react-native-fundamentals)
 - [JS coach](https://js.coach/react-native)
 
-
 # Server side
 > Server side programming different languages
 
@@ -347,6 +350,9 @@ MIT
 - [Node/Sails/Socket.IO/Angular/Mongo](https://courses.platzi.com/courses/develop-apps-sails-js/)
 - [node tuts](http://nodetuts.com/)
 - [Airbnb style guide](https://github.com/airbnb/javascript)
+- [node.Js best practices](https://github.com/alanjames1987/Node.js-Best-Practices)
+- [awesome nodejs](https://github.com/sindresorhus/awesome-nodejs)
+
 
 # Ruby
 - [Ruby by dreikanter](https://github.com/dreikanter/ruby-bookmarks)
@@ -397,6 +403,12 @@ MIT
 - [Data Science command line](http://datascienceatthecommandline.com/)
 - [Fish](http://fishshell.com/)
 - [Syntax Highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+
+# Git
+- [Git tips](https://github.com/git-tips/tips)
+- [github desktop](https://desktop.github.com/)
+- [xhacker github extensions](https://github.com/xhacker/awesome-github-extensions)
+- [stefan github extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 
 
 # Serverless
@@ -463,6 +475,7 @@ MIT
 # Configuration Management
 - [Docker](https://www.docker.com/what-docker)
   - [LearnCode.Academy: Docker](https://www.youtube.com/watch?v=pGYAg7TMmp0)
+  - [Docker cheat sheet](https://github.com/wsargent/docker-cheat-sheet)
 
 # Platforms
   - Iaas
@@ -484,6 +497,7 @@ MIT
 # Resource
 > Other stuff
 
+- [621+ Programming Resources](https://medium.com/free-stuff/2000-programming-resources-c2c835001216#.2cmo8h11l)
 - [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
 - [FreeCode Camp](https://www.freecodecamp.com)
 - [The Oding Project](The Odin Project)
@@ -531,7 +545,11 @@ MIT
 - [Code Triage](https://www.codetriage.com/)
 
 # Newsletters
-> coming soon
+> [awesome newsletters](https://github.com/vredniy/awesome-newsletters)
+
+# Inspirations
+- [Showcases](https://github.com/showcases)
+- [Trending](https://github.com/trending)
 
 # Other
 - [Hacking](https://www.hacksplaining.com/)
@@ -566,6 +584,7 @@ MIT
 - [quora](https://www.quora.com/Where-can-I-find-difficult-algorithm-data-structure-problems)
 - [haseebq](http://haseebq.com/)
 - [haseebq](http://haseebq.com/farewell-app-academy-hello-airbnb-part-i/)
+- [android interview](https://github.com/fanrunqi/AndroidInterview)
 
 # Jobs
 - [awesome interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
