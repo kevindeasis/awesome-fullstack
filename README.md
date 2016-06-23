@@ -113,8 +113,6 @@ MIT
 9. [**Embedded**](http://www.instructables.com/tag/type-id/category-technology/)
 10. Desktop
   1. [Awesome Electron](https://github.com/sindresorhus/awesome-electron)
-11. Plugins
-  1. [Awesome Plugins]
 
 
 # Middle-tier
@@ -244,11 +242,33 @@ MIT
 - [ACM introduction to programming contest stanford](http://web.stanford.edu/class/cs97si/)
 - [Competitive programming course](https://algo.is/t-414-aflv-competitive-programming-course-2016/)
 
-## Machine Learning
+## Machine Learning and AI
 - [Awesome ML](https://github.com/josephmisiti/awesome-machine-learning)
 - [Andrew Ng Coursera](https://www.coursera.org/learn/machine-learning)
+- [Awesome AI courses](https://github.com/prakhar1989/awesome-courses#artificial-intelligence)
+- [Berkeley Intro to AI](http://ai.berkeley.edu/lecture_videos.html)
+- [Berkeley Intro to AI 2015 version](https://www.youtube.com/playlist?list=PL-XXv-cvA_iA4YSaTMfF_K_wvrKAY2H8u)
+- [Berkeley Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
+- [Udacity Intro To ML](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+- [MIT 6.034](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
 - [Neural Networks & Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 - [Data Sets](https://github.com/caesar0301/awesome-public-datasets)
+- [Hello Tensor Flow](https://www.oreilly.com/learning/hello-tensorflow)
+- [Open AI Generative Models](https://openai.com/blog/generative-models/)
+- [Machine learning books by r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/1jeawf/machine_learning_books/)
+- [Machine learning by r/MachineLearning/wiki/index](https://www.reddit.com/r/MachineLearning/wiki/index)
+- [CMU ML course](http://www.cs.cmu.edu/~awm/10701/)
+- [Statistical learning theory](http://people.eecs.berkeley.edu/~jordan/courses/281A-fall07/)
+- [Berkeley ML](http://inst.eecs.berkeley.edu/~cs188/sp08/lectures.html)
+- [Statistical learning theory](http://people.eecs.berkeley.edu/~jordan/courses/281A-fall07/)
+- [Stanford 229](http://cs229.stanford.edu/)
+
+## Other Domains in CS
+- [Scientific python cheat sheet](https://ipgp.github.io/scientific_python_cheat_sheet/)
+- [Nengo: simulate large scale brain models](https://github.com/nengo/nengo)
+- [Statistics for hackers](https://www.youtube.com/watch?v=L5GVOFAYi8k)
+- [Statistics without pain](https://www.youtube.com/watch?v=5Dnw46eC-0o&feature=youtu.be)
+
 
 # Paradigms
 > [Programming Paradigms](https://en.wikipedia.org/wiki/Programming_paradigm)
@@ -409,7 +429,7 @@ MIT
 - [github desktop](https://desktop.github.com/)
 - [xhacker github extensions](https://github.com/xhacker/awesome-github-extensions)
 - [stefan github extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
-
+- [awesome tooling and resources in chrome devtools ecosystem](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 
 # Serverless
 - [Horizon](http://horizon.io/)
@@ -477,6 +497,7 @@ MIT
   - [LearnCode.Academy: Docker](https://www.youtube.com/watch?v=pGYAg7TMmp0)
   - [Docker cheat sheet](https://github.com/wsargent/docker-cheat-sheet)
 
+
 # Platforms
   - Iaas
     - [Awesome AWS](https://github.com/donnemartin/awesome-aws)
@@ -497,6 +518,7 @@ MIT
 # Resource
 > Other stuff
 
+- [Awesome courses](https://github.com/prakhar1989/awesome-courses#artificial-intelligence)
 - [621+ Programming Resources](https://medium.com/free-stuff/2000-programming-resources-c2c835001216#.2cmo8h11l)
 - [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
 - [FreeCode Camp](https://www.freecodecamp.com)
@@ -545,13 +567,27 @@ MIT
 - [Code Triage](https://www.codetriage.com/)
 
 # Newsletters
-> [awesome newsletters](https://github.com/vredniy/awesome-newsletters)
+- [awesome newsletters](https://github.com/vredniy/awesome-newsletters)
+
+# Blogs
+- [highscalability](http://highscalability.com/all-time-favorites/)
+- [hired in tech](http://www.hiredintech.com/system-design)
+- [bike shed](http://bikeshed.fm/)
+- [software engineering daily](http://softwareengineeringdaily.com/category/podcast/)
+- [dropbox](https://blogs.dropbox.com/tech/2014/07/open-sourcing-our-go-libraries/)
 
 # Inspirations
 - [Showcases](https://github.com/showcases)
 - [Trending](https://github.com/trending)
 
+# ELI5
+- [Children's Illustrated guide to Kubernetes](https://deis.com/blog/2016/kubernetes-illustrated-guide/)
+- [Selinux coloring book](https://github.com/mairin/selinux-coloring-book)
+- [Alligator Egg: lambda calculus](http://worrydream.com/AlligatorEggs/)
+
+
 # Other
+- [Hardware AUtopsy using gameboy](https://www.youtube.com/watch?v=RZUDEaLa5Nw)
 - [Hacking](https://www.hacksplaining.com/)
 - [LaTeX / PDF](http://www.latex-tutorial.com/tutorials/)
 - [Git](http://marc.helbling.fr/2014/09/practical-git-introduction)
@@ -568,6 +604,7 @@ MIT
 - [Data mining books](https://www.lenwood.cc/2014/05/13/12-free-data-mining-books/)
 - [Data mining algo](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 - [stackshare](http://stackshare.io/)
+- [Chinese (simplified) to learn full stack](https://github.com/GeniusVJR/LearningNotes)
 
 # Interview Preparation
 - [andreis curated guide](https://github.com/andreis/interview)
@@ -577,6 +614,7 @@ MIT
 - [Philip Youssef](http://www.restlessprogrammer.com/2013/09/hacking-coding-interview.html)
 - [Carlos Bueno facebook](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920)
 - [leet code](https://leetcode.com/)
+- [codwars](https://www.codewars.com/)
 - [geek for geeks](http://www.geeksforgeeks.org/)
 - [careercup](https://www.careercup.com/resume)
 - [topcoder](https://community.topcoder.com/tc?module=ProblemArchive)
@@ -585,6 +623,10 @@ MIT
 - [haseebq](http://haseebq.com/)
 - [haseebq](http://haseebq.com/farewell-app-academy-hello-airbnb-part-i/)
 - [android interview](https://github.com/fanrunqi/AndroidInterview)
+- [land an autonomous vehicle job](https://medium.com/self-driving-cars/how-to-land-an-autonomous-vehicle-job-coursework-e7acc2bfe740#.rjdtvrill)
+- [bingo cheat sheet (time complexity)](http://bigocheatsheet.com/)
+- [average vs amortized](http://programmers.stackexchange.com/questions/161404/amortized-analysis-worst-case-performance-guarantees)
+- [stackexchange amortized vs average](http://programmers.stackexchange.com/questions/161404/amortized-analysis-worst-case-performance-guarantees)
 
 # Jobs
 - [awesome interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
@@ -610,3 +652,5 @@ MIT
 - [remotive.io jobs](http://jobs.remotive.io/)
 - [stackoverflow](https://stackoverflow.com/jobs)
 - [github](https://jobs.github.com/)
+- [smarthires](https://www.smarthires.io/)
+- [white truffle](https://www.whitetruffle.com/#!/)
