@@ -627,6 +627,7 @@ MIT
 - [bingo cheat sheet (time complexity)](http://bigocheatsheet.com/)
 - [average vs amortized](http://programmers.stackexchange.com/questions/161404/amortized-analysis-worst-case-performance-guarantees)
 - [stackexchange amortized vs average](http://programmers.stackexchange.com/questions/161404/amortized-analysis-worst-case-performance-guarantees)
+- [salary negotiation](https://fearlesssalarynegotiation.com/book/?utm_medium=social&utm_source=hackernews.com&utm_content=online+book+announcement)
 
 # Jobs
 - [awesome interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
@@ -654,3 +655,4 @@ MIT
 - [github](https://jobs.github.com/)
 - [smarthires](https://www.smarthires.io/)
 - [white truffle](https://www.whitetruffle.com/#!/)
+- [curated opportunities for advanced engineers](https://www.latitude.work/)
