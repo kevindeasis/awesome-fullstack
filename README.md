@@ -29,6 +29,7 @@ MIT
 
 # Front-end tier
 > What people see; User Interface / User Experience / Client Side / Design / Games / Mobile / T.V. / Hardware
+[Front End Developer HandBook](https://frontendmasters.gitbooks.io/front-end-handbook/content/index.html)
 
 >1. **HTML**
   - [Intro](https://github.com/kevindeasis/awesome-fullstack#html-intro)
