@@ -243,6 +243,7 @@ MIT
 - [Competitive programming course](https://algo.is/t-414-aflv-competitive-programming-course-2016/)
 
 ## Machine Learning and AI
+- [Free Machine Learning Books](https://hackerlists.com/free-machine-learning-books/)
 - [Awesome ML](https://github.com/josephmisiti/awesome-machine-learning)
 - [Andrew Ng Coursera](https://www.coursera.org/learn/machine-learning)
 - [Awesome AI courses](https://github.com/prakhar1989/awesome-courses#artificial-intelligence)
@@ -253,7 +254,6 @@ MIT
 - [MIT 6.034](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
 - [Neural Networks & Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 - [Data Sets](https://github.com/caesar0301/awesome-public-datasets)
-- [Hello Tensor Flow](https://www.oreilly.com/learning/hello-tensorflow)
 - [Open AI Generative Models](https://openai.com/blog/generative-models/)
 - [Machine learning books by r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/1jeawf/machine_learning_books/)
 - [Machine learning by r/MachineLearning/wiki/index](https://www.reddit.com/r/MachineLearning/wiki/index)
@@ -262,6 +262,18 @@ MIT
 - [Berkeley ML](http://inst.eecs.berkeley.edu/~cs188/sp08/lectures.html)
 - [Statistical learning theory](http://people.eecs.berkeley.edu/~jordan/courses/281A-fall07/)
 - [Stanford 229](http://cs229.stanford.edu/)
+
+## Deep Learning-ish
+>[Skills to for machine learning by OpenAI CTO, Greg Brockman](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer/answer/Greg-Brockman?srid=cgo&share=d1ac0da2)
+
+- [Machine Learning is Fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.runmpceje)
+- [Deep Learning Book](https://github.com/HFTrader/DeepLearningBook)
+- [How to start deep learning](http://ofir.io/How-to-Start-Learning-Deep-Learning/)
+- [Hello Tensor Flow](https://www.oreilly.com/learning/hello-tensorflow)
+- [MIT deep learning press book](http://www.deeplearningbook.org/)
+- [Reinforcement learning an introduction](https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html)
+- [Reinforcement Learning at georgia tech](https://www.udacity.com/course/reinforcement-learning--ud600)
+
 
 ## Other Domains in CS
 - [Scientific python cheat sheet](https://ipgp.github.io/scientific_python_cheat_sheet/)
@@ -588,7 +600,6 @@ MIT
 
 # Other
 - [Hardware AUtopsy using gameboy](https://www.youtube.com/watch?v=RZUDEaLa5Nw)
-- [Hacking](https://www.hacksplaining.com/)
 - [LaTeX / PDF](http://www.latex-tutorial.com/tutorials/)
 - [Git](http://marc.helbling.fr/2014/09/practical-git-introduction)
 - [Text Editor](https://www.learnenough.com/text-editor-tutorial)
@@ -606,6 +617,30 @@ MIT
 - [stackshare](http://stackshare.io/)
 - [Chinese (simplified) to learn full stack](https://github.com/GeniusVJR/LearningNotes)
 
+# Hacking
+- [Hacking](https://www.hacksplaining.com/)
+- [Awesome Hack](https://github.com/carpedm20/awesome-hacking#ctf-competiton)
+
+# Competitions
+- [Stupid Hackathon](http://www.stupidhackathon.com/)
+- [Devpost Hackathons](http://devpost.com/hackathons)
+- [Hacker Rank](https://www.hackerrank.com/)
+- [Top Coder](https://www.topcoder.com/)
+- [Hack the North](https://hackthenorth.com/)
+- [Space Apps Challenge](spaceappschallenge.org)
+- [World Hackathon Day](http://worldhackathonday.com/)
+- [Dart Lang Hackathon](https://www.dartlang.org/hackathons/2012/happy-hour/)
+- [Battle Hack](battlehack.org)
+- [Code Eval](https://www.codeeval.com/)
+
+# Resume and Cover Letter
+- [Resume and Cover Letter Sample](https://www.resumonk.com/resume-examples/software-engineer-resume-examples/software-engineer-sample-resume-%231)
+- [Aline Lerner](http://blog.alinelerner.com/lessons-from-a-years-worth-of-hiring-data/)
+- [Json Resume](https://jsonresume.org/themes/)
+- [Enhance CV](http://www.enhancv.com/)
+- [Resume Monk](https://www.resumonk.com/blog/dear-software-engineer-this-is-why-your-resume-was-rejected/)
+- [careercup](https://www.careercup.com/resume)
+
 # Interview Preparation
 - [andreis curated guide](https://github.com/andreis/interview)
 - [David Byttow Post](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.szzt4wrh4)
@@ -616,7 +651,6 @@ MIT
 - [leet code](https://leetcode.com/)
 - [codwars](https://www.codewars.com/)
 - [geek for geeks](http://www.geeksforgeeks.org/)
-- [careercup](https://www.careercup.com/resume)
 - [topcoder](https://community.topcoder.com/tc?module=ProblemArchive)
 - [codility](https://codility.com/programmers/)
 - [quora](https://www.quora.com/Where-can-I-find-difficult-algorithm-data-structure-problems)
