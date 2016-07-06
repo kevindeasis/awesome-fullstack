@@ -37,6 +37,7 @@ MIT
   1. [Intro](https://github.com/kevindeasis/awesome-fullstack#css-intro)
   2. [Animations](https://robots.thoughtbot.com/css-animation-for-beginners)
     - [Css animation for beginners (Youtube)](https://www.youtube.com/watch?v=D9YQBaDBJ88)
+    - [How well do you know display](https://www.chenhuijing.com/blog/how-well-do-you-know-display/)
 3. **Javascript**
   1. [Intro](https://github.com/kevindeasis/awesome-fullstack#js-intro)
   2. [Jquery](https://github.com/kevindeasis/awesome-fullstack#jquery-intro)
@@ -621,6 +622,7 @@ MIT
 # Hacking
 - [Hacking](https://www.hacksplaining.com/)
 - [Awesome Hack](https://github.com/carpedm20/awesome-hacking#ctf-competiton)
+- [Awesome Penetration Test]
 
 # Competitions
 - [Stupid Hackathon](http://www.stupidhackathon.com/)
