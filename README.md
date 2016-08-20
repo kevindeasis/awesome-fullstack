@@ -137,6 +137,7 @@ MIT
 3. **API / RESTful Service**
   - [Awesome REST](https://github.com/marmelab/awesome-rest)
   - [Awesome API](https://github.com/Kikobeats/awesome-api)
+  - [HTTP API Design Guide](https://geemus.gitbooks.io/http-api-design/content/en/index.html)
 4. **Serverless**
 5. [**Command Line**](https://github.com/kevindeasis/awesome-fullstack#command-line)
 6. **Hosting**
@@ -194,6 +195,13 @@ MIT
 5. **Search**
 6. [**Data Sets**](https://github.com/caesar0301/awesome-public-datasets)
 7. [**Data Mining**](http://guidetodatamining.com/)
+
+# Distributed Systems
+> Fundamentals Include: Cap Theorem, FLP Impossibility Theorem, Bimodal Multicast, Raft / Paxos, Lamport Time
+
+- [MIT 6.824](http://nil.csail.mit.edu/6.824/2015/)
+- [Ed X](https://www.edx.org/course/reliable-distributed-algorithms-part-1-kthx-id2203-1x)
+- [Washington CSE 452](https://courses.cs.washington.edu/courses/cse452/16wi/calendar/lecturelist.html)
 
 
 # Dev Ops, Continuous Delivery/Integration/Deployment
