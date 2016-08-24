@@ -607,6 +607,17 @@ MIT
 - [Selinux coloring book](https://github.com/mairin/selinux-coloring-book)
 - [Alligator Egg: lambda calculus](http://worrydream.com/AlligatorEggs/)
 
+# Web Scraping
+- [Web Scraping in 2016](https://franciskim.co/2016/08/24/dont-need-no-stinking-api-web-scraping-2016-beyond/)
+- [Data Mining](http://guidetodatamining.com/)
+- [ web scraping](https://news.ycombinator.com/item?id=4893864)
+- [Data mining](http://guidetodatamining.com/)
+- [Data mining algorithm](https://github.com/linyiqun/DataMiningAlgorithm)
+- [mining software repos](https://github.com/dspinellis/awesome-msr)
+- [Data mining books](https://www.lenwood.cc/2014/05/13/12-free-data-mining-books/)
+- [Data mining algo](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
+- [stackshare](http://stackshare.io/)
+
 
 # Other
 - [Hardware AUtopsy using gameboy](https://www.youtube.com/watch?v=RZUDEaLa5Nw)
@@ -618,14 +629,8 @@ MIT
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Stock Stuff](https://github.com/neutraltone/awesome-stock-resources)
 - [APIs](https://github.com/Abhishaker17/Awesome-APIs)
-- [ web scraping](https://news.ycombinator.com/item?id=4893864)
-- [Data mining](http://guidetodatamining.com/)
-- [Data mining algorithm](https://github.com/linyiqun/DataMiningAlgorithm)
-- [mining software repos](https://github.com/dspinellis/awesome-msr)
-- [Data mining books](https://www.lenwood.cc/2014/05/13/12-free-data-mining-books/)
-- [Data mining algo](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
-- [stackshare](http://stackshare.io/)
 - [Chinese (simplified) to learn full stack](https://github.com/GeniusVJR/LearningNotes)
+
 
 # Hacking
 - [Hacking](https://www.hacksplaining.com/)
