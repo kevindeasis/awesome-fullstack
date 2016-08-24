@@ -609,6 +609,7 @@ MIT
 
 # Web Scraping
 - [Web Scraping in 2016](https://franciskim.co/2016/08/24/dont-need-no-stinking-api-web-scraping-2016-beyond/)
+- [HN Discussion](https://news.ycombinator.com/item?id=12345693)
 - [Data Mining](http://guidetodatamining.com/)
 - [ web scraping](https://news.ycombinator.com/item?id=4893864)
 - [Data mining](http://guidetodatamining.com/)
