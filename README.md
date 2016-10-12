@@ -238,8 +238,9 @@ MIT
 - [Code Review](https://github.com/thoughtbot/guides/tree/master/code-review)
 
 # Algorithms and Data Structures
-> Algorithms, AI, and ML
+> Algorithms, DataScience AI, and ML
 
+- [Foundations of Data Science](https://news.ycombinator.com/item?id=12659141)
 - [Better Explained](http://betterexplained.com/)
 - [MIT ALgorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 - [Hacker Rank](https://www.hackerrank.com/domains)
@@ -253,6 +254,8 @@ MIT
 - [Competitive programming course](https://algo.is/t-414-aflv-competitive-programming-course-2016/)
 
 ## Machine Learning and AI
+
+- [Artificial Intelligence Lecture Videos](https://news.ycombinator.com/item?id=12667761)
 - [Free Machine Learning Books](https://hackerlists.com/free-machine-learning-books/)
 - [Awesome ML](https://github.com/josephmisiti/awesome-machine-learning)
 - [Andrew Ng Coursera](https://www.coursera.org/learn/machine-learning)
@@ -500,6 +503,7 @@ MIT
 - Column
 
 # Dev Ops
+- [Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)
 - [awesome continuous integration and delivery](https://github.com/ciandcd/awesome-ciandcd)
 - [awesome sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [awesome microservice](https://github.com/mfornos/awesome-microservices)
@@ -651,6 +655,7 @@ MIT
 - [Code Eval](https://www.codeeval.com/)
 
 # Resume and Cover Letter
+- [Stackoverflow: A new technical resume](https://news.ycombinator.com/item?id=12685700)
 - [Resume and Cover Letter Sample](https://www.resumonk.com/resume-examples/software-engineer-resume-examples/software-engineer-sample-resume-%231)
 - [Aline Lerner](http://blog.alinelerner.com/lessons-from-a-years-worth-of-hiring-data/)
 - [Json Resume](https://jsonresume.org/themes/)
