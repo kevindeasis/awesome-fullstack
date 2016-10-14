@@ -16,6 +16,7 @@ go to stackoverflow and click any tag, then go to the info tab, it should contai
 9. [Interview Preparation](https://github.com/kevindeasis/awesome-fullstack#interview-preparation)
 10. [Jobs](https://github.com/kevindeasis/awesome-fullstack#jobs)
 11. [Other](https://github.com/kevindeasis/awesome-fullstack#other)
+12. [Youtube Videos](https://news.ycombinator.com/item?id=12702651)
 
 
 ## License
@@ -47,6 +48,7 @@ MIT
   - MVC-ish Frameworks
       - [React](https://github.com/kevindeasis/awesome-fullstack#react)
         - [Redux](https://github.com/kevindeasis/awesome-fullstack#redux)
+        - [Learn Relay](https://learnrelay.org/)
       - [Agular 2](https://github.com/AngularClass/awesome-angular2)
       - [Agular 1](https://github.com/gianarb/awesome-angularjs)
       - [Backbone](https://github.com/sadcitizen/awesome-backbone)
@@ -121,6 +123,7 @@ MIT
 >The endpoint that talks to the client-side and the database
 
 >1. [**Web Servers by language**](https://github.com/kevindeasis/awesome-fullstack#server-side)
+  - [GraphQL](https://learngraphql.com)
   - [C](https://github.com/kozross/awesome-c)
   - [C++](https://github.com/fffaraz/awesome-cpp)
   - [C# / Dotnet](https://github.com/quozd/awesome-dotnet)
@@ -289,6 +292,7 @@ MIT
 
 
 ## Other Domains in CS
+- [Statistics Self Study](https://news.ycombinator.com/item?id=12703032)
 - [Scientific python cheat sheet](https://ipgp.github.io/scientific_python_cheat_sheet/)
 - [Nengo: simulate large scale brain models](https://github.com/nengo/nengo)
 - [Statistics for hackers](https://www.youtube.com/watch?v=L5GVOFAYi8k)
@@ -664,6 +668,7 @@ MIT
 - [careercup](https://www.careercup.com/resume)
 
 # Interview Preparation
+- [Google]
 - [andreis curated guide](https://github.com/andreis/interview)
 - [David Byttow Post](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.szzt4wrh4)
 - [David Byttow Post #2](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.vznuf3phv)
