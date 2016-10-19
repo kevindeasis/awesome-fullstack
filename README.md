@@ -498,6 +498,8 @@ MIT
 - [Postgis in action: Postgis](https://www.manning.com/books/postgis-in-action-second-edition)
 
 # NoSQL
+- Data Modelling
+  - [NoSql Data Modelling Techniques 2012](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)
 - Realtime
   - [Awesome RethinkDB by analytik](https://github.com/analytik/awesome-rethinkdb)
   - [Awesome RethinkDB by d3viant0ne](https://github.com/d3viant0ne/awesome-rethinkdb)
