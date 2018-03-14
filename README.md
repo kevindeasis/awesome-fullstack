@@ -44,6 +44,7 @@ MIT
   2. [Jquery](https://github.com/kevindeasis/awesome-fullstack#jquery-intro)
   3. [JS Intermediate](https://github.com/kevindeasis/awesome-fullstack#js-intermediate)
   4. [Awesome JS](https://github.com/kevindeasis/awesome-fullstack#awesome-js-list)
+  5. [Fullstack Fundamentals](https://elewa-academy.github.io)
 4. **Client Side Development (Web)**
   - MVC-ish Frameworks
       - [React](https://github.com/kevindeasis/awesome-fullstack#react)
