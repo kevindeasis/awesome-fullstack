@@ -255,6 +255,7 @@ MIT
 - [OEDB list](http://oedb.org/open/search-results/?search-term=algorithm)
 - [ACM introduction to programming contest stanford](http://web.stanford.edu/class/cs97si/)
 - [Competitive programming course](https://algo.is/t-414-aflv-competitive-programming-course-2016/)
+- [Scaler](https://www.scaler.com/topics/)
 
 ## Machine Learning and AI
 
