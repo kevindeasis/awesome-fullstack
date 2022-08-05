@@ -562,6 +562,7 @@ MIT
 - [Udacity](https://www.udacity.com/)
 - [Udemy](https://www.udemy.com/)
 - [Codementor](https://www.codementor.io/learn/coding)
+- [InterviewBit](https://www.interviewbit.com/courses/programming/)
 
 - [awesome x 3](https://github.com/t3chnoboy/awesome-awesome-awesome)
 - [Front End ](https://github.com/micahgodbolt/front-end-architecture)
@@ -691,6 +692,7 @@ MIT
 - [average vs amortized](http://programmers.stackexchange.com/questions/161404/amortized-analysis-worst-case-performance-guarantees)
 - [stackexchange amortized vs average](http://programmers.stackexchange.com/questions/161404/amortized-analysis-worst-case-performance-guarantees)
 - [salary negotiation](https://fearlesssalarynegotiation.com/book/?utm_medium=social&utm_source=hackernews.com&utm_content=online+book+announcement)
+- [Technical Interview Preparation Guide](https://www.interviewbit.com/technical-interview-questions/)
 
 # Jobs
 - [awesome interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
