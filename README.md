@@ -313,6 +313,7 @@ MIT
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)
 - [Free Code Camp](https://www.freecodecamp.com/challenges/say-hello-to-html-elements)
 - [Code Academy](https://www.codecademy.com/learn/web)
+- [Scaler Topics](https://www.scaler.com/topics/html/)
 - [https://www.codeschool.com/learn/html-css](https://www.codeschool.com/learn/html-css)
 - [Shayhowe](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
 - [W3C HTML5 Tutorial](http://www.w3schools.com/html/)
