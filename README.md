@@ -706,6 +706,7 @@ MIT
 - [simply hired](http://www.simplyhired.com/)
 - [hired](https://hired.ca/)
 - [lever](https://www.lever.co/)
+- [OkJob - 4 day week jobs](https://okjob.io)
 - [remote bas](https://remotebase.io/)
 - [nomad list](https://nomadlist.com/)
 - [remote teams](http://oinam.github.io/remote-teams/)
