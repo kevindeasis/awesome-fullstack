@@ -6,6 +6,7 @@ Learn front-end, middle-tier, back-end tier, algorithms, and continuous delivery
 go to stackoverflow and click any tag, then go to the info tab, it should contain resources about that tag.
 
 # What to Learn
+0. [Trending](https://github.com/whatwhatgoose/trending/issues)
 >1. [Front End](https://github.com/kevindeasis/awesome-fullstack#front-end-tier)
 2. [Middle Tier (Servers)](https://github.com/kevindeasis/awesome-fullstack#middle-tier)
 3. [Backend Tier (Database)](https://github.com/kevindeasis/awesome-fullstack#back-end-tier-database)
