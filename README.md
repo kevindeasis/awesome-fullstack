@@ -667,6 +667,7 @@ MIT
 - [Aline Lerner](http://blog.alinelerner.com/lessons-from-a-years-worth-of-hiring-data/)
 - [Json Resume](https://jsonresume.org/themes/)
 - [Enhance CV](http://www.enhancv.com/)
+- [ResumeAI](https://withresumeai.com/) — AI resume builder + free ATS checker; State of ATS 2026 (738/704, Workday 37.9%)
 - [Resume Monk](https://www.resumonk.com/blog/dear-software-engineer-this-is-why-your-resume-was-rejected/)
 - [careercup](https://www.careercup.com/resume)
 
